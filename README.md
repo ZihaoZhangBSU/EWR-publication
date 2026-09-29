@@ -8,7 +8,7 @@ figures, and associated numerical tables in manuscript v4. It compares the
 author's existing Noah-MP, iSnobal, SNOTEL, ASO, MODIS and USGS products for
 WY2018–WY2026. WY2017 is the model spin-up year; WY2026 ends on 30 June.
 
-**ASO treatment:** original, unfiltered observations, as confirmed by the author.
+**ASO treatment:** original, unfiltered observations.
 The ASO metrics notebooks rebuild their observation inputs to avoid reusing
 filtered archive products. Some earlier manuscript table entries therefore
 require correction; see [the correction report](docs/MANUSCRIPT_CORRECTIONS.md).
