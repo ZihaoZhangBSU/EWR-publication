@@ -820,8 +820,8 @@
     "source_name": "test_unfiltered_aso.py",
     "source_group": "publication unfiltered-ASO revision (2026-09-29)",
     "original_sha256": null,
-    "packaged_sha256": "21f8650d45aef0f8fd5c4d7fbc3556cf581cfa53b14c1d9f6379f120a9bead40",
-    "change": "New preparation/test code or regenerated raw-ASO table. Scientific metric definitions retained; observation lineage explicitly unfiltered."
+    "packaged_sha256": "1a67b66802bb51e202ef4920f817728b7a1a5c72d0077734c9c4cbfa46b17f48",
+    "change": "New preparation/test code or regenerated raw-ASO table. Scientific metric definitions retained; observation lineage explicitly unfiltered. Configuration test redirects output creation to pytest temporary storage for Linux portability."
   },
   {
     "file": "data/reference/aso_unfiltered/aso_bulk_density_metrics_all.csv",

@@ -4,6 +4,7 @@ import sys
 import numpy as np
 import pytest
 import rasterio
+import yaml
 from affine import Affine
 from pyproj import CRS
 
@@ -52,6 +53,12 @@ def test_weight_coordinate_identity_required(tmp_path):
         read_weights(path, grid)
 
 
-def test_publication_configuration_disables_aso_qc():
-    cfg = load_config(ROOT / 'workflow/config/east_river_config.yaml')
+def test_publication_configuration_disables_aso_qc(tmp_path):
+    # The loader creates output directories. Keep this test off production paths.
+    source = ROOT / 'workflow/config/east_river_config.yaml'
+    settings = yaml.safe_load(source.read_text(encoding='utf-8'))
+    settings['paths']['output_dir'] = str(tmp_path / 'output')
+    config = tmp_path / 'publication.yaml'
+    config.write_text(yaml.safe_dump(settings), encoding='utf-8')
+    cfg = load_config(config)
     assert cfg.section('aso')['quality_control']['enabled'] is False
