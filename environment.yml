@@ -1,0 +1,29 @@
+name: erw-publication
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - rasterio
+  - gdal
+  - hdf4
+  - pyproj
+  - netcdf4
+  - h5netcdf
+  - geopandas
+  - shapely
+  - xarray
+  - pyyaml
+  - requests
+  - python-docx
+  - pillow
+  - nbformat
+  - jupyterlab
+  - pytest
+  - pypdf
+  - pip
+  - pip:
+      - -e ./workflow

@@ -1,0 +1,2 @@
+# Preserve exact source bytes so provenance fingerprints work on every platform.
+* -text

@@ -1,0 +1,38 @@
+{
+  "checks": [
+    {
+      "name": "Representative years reproduce manuscript selection",
+      "status": "passed",
+      "selected": {
+        "Low": 2018,
+        "Typical": 2022,
+        "High": 2019,
+        "Abnormal": 2026
+      }
+    },
+    {
+      "name": "All H1 supplied CSV columns reproduce from archived daily inputs",
+      "status": "passed",
+      "years": 9,
+      "max_numeric_difference": 0.0
+    },
+    {
+      "name": "RMB retains zero-reference days; paired sums, missing values and zero denominators handled correctly",
+      "status": "passed"
+    },
+    {
+      "name": "Actual Desktop station SWE bias function reproduces archived Table 4",
+      "status": "passed",
+      "comparisons": 54,
+      "max_difference_mm": 1.4210854715202004e-14
+    },
+    {
+      "name": "ASO density conversion uses equal SWE/depth units, kg/m3 scaling and positive-depth support",
+      "status": "passed"
+    }
+  ],
+  "limitations": [
+    "Archived outputs only; current HPC output1 was not accessed.",
+    "These checks do not establish that all manuscript figures originate from the currently supplied Desktop folder."
+  ]
+}

@@ -1,0 +1,874 @@
+[
+  {
+    "file": "analysis/aso/ASO_metrics_with_bulk_density.ipynb",
+    "source_name": "ASO_metrics_with_bulk_density.ipynb",
+    "source_group": "author-confirmed Desktop folder",
+    "original_sha256": "4eea591e544ef2bf3723c2f2b92bfba7c733c14f8c1133ee972e7055c52b7349",
+    "packaged_sha256": "ad6abb40b38083cc56b65a413292e062ba352061c99d67a4265b57ebd0f99125",
+    "change": "Cleared stored outputs. Rebuild original unfiltered ASO inputs in a separate publication directory before running unchanged metric formulas; do not read archived filtered ASO products. Added (a)-(c) panel labels under the plotting protocol."
+  },
+  {
+    "file": "analysis/aso/ASO_iSnobal_density_grid_scale_diagnostic.ipynb",
+    "source_name": "ASO_iSnobal_density_grid_scale_diagnostic.ipynb",
+    "source_group": "author-confirmed Desktop folder",
+    "original_sha256": "ed4b7eb8c4c76fd3535a48453331a09f7ee527bf10b5e6961f75f5cc7882a6f2",
+    "packaged_sha256": "fd56b4476f47395fbf1fc7be31a8ca5eb3ce24b68486e71fb120ce7b652c65fe",
+    "change": "Cleared stored outputs. Rebuild original unfiltered ASO inputs in a separate publication directory before running unchanged metric formulas; do not read archived filtered ASO products. Added (a)-(c) panel labels under the plotting protocol."
+  },
+  {
+    "file": "analysis/aso/ASO_spatial_figures.ipynb",
+    "source_name": "ASO_spatial_figures.ipynb",
+    "source_group": "author-confirmed Desktop folder",
+    "original_sha256": "01b0a57babcd8b08c655d9438d580662c0a488f62a9cc6a24b3cdd63bc241208",
+    "packaged_sha256": "78aa094dc3129768180a2365e1306233eb44a65cb5ff5512fd65294309bec546",
+    "change": "Cleared saved notebook outputs; all cell source text preserved."
+  },
+  {
+    "file": "analysis/accumulation/Dia_Pre_melt.ipynb",
+    "source_name": "Dia_Pre_melt.ipynb",
+    "source_group": "author-confirmed Desktop folder",
+    "original_sha256": "c82e441e3afe81fafe817d0454200199a1844156b3ad6fca52ee350e4245fb73",
+    "packaged_sha256": "a762ce9e039a08d6546b5bec26e991fc8df8ad3aa82b291992090342a7fb0410",
+    "change": "Cleared saved notebook outputs; all cell source text preserved."
+  },
+  {
+    "file": "analysis/stations/Pick_snow_year.ipynb",
+    "source_name": "Pick_snow_year.ipynb",
+    "source_group": "author-confirmed Desktop folder",
+    "original_sha256": "fbff3d4bbd358a2824deaf05abedf5e3e887874a7981b1a2219feb143ae73565",
+    "packaged_sha256": "6339f4537fcbb9979f038200dc42b91d4de086ed13e71e010833717462cadb2e",
+    "change": "Cleared saved notebook outputs; all cell source text preserved."
+  },
+  {
+    "file": "analysis/stations/Point_Comp_SWE_SD.ipynb",
+    "source_name": "Point_Comp_SWE_SD.ipynb",
+    "source_group": "author-confirmed Desktop folder",
+    "original_sha256": "be7362c70c21527ea248743af33536aa881c3d931870a7b93e4c32198bd609b9",
+    "packaged_sha256": "c55119f595a5521e775efc011355b977266fdf5e7099ab05a361c853769cf12c",
+    "change": "Cleared saved notebook outputs; all cell source text preserved."
+  },
+  {
+    "file": "analysis/stations/Point_Comp_timing.ipynb",
+    "source_name": "Point_Comp_timing.ipynb",
+    "source_group": "author-confirmed Desktop folder",
+    "original_sha256": "fb0f7234e1bc118cce1988b135c4fea846bf1f00e16601775e77b389576f65d6",
+    "packaged_sha256": "6d4eb5c65958e640f4750b7ef059783ab548b01019ea676520d5761a5e1127ba",
+    "change": "Cleared saved notebook outputs; all cell source text preserved."
+  },
+  {
+    "file": "analysis/stations/Point_Comp_combined_MB_RMB_f_density.ipynb",
+    "source_name": "Point_Comp_combined_MB_RMB_f_density (1).ipynb",
+    "source_group": "author-confirmed Desktop folder",
+    "original_sha256": "bfb97ccf8e987f2c6ebbe00dddb6b500fd47dcad75439a7d7bd9d2419f5f3689",
+    "packaged_sha256": "becdef3b06300e9d1fe88be9b1261e57df983275e5156ab644fc1fd08996a699",
+    "change": "Cleared saved notebook outputs; all cell source text preserved."
+  },
+  {
+    "file": "analysis/watershed/Watershed_comparison.ipynb",
+    "source_name": "Watershed_comparison.ipynb",
+    "source_group": "author-authorized Downloads/project supplement",
+    "original_sha256": "01f74263b2e1232bd3838b0345929c2a2ba76c11b13c5a6960d27e5953a365b6",
+    "packaged_sha256": "8ea71a590d5332d67055e784dd47d7b6bd230e7dc92b8241e20f2612cba3f889",
+    "change": "Cleared saved notebook outputs; all cell source text preserved."
+  },
+  {
+    "file": "analysis/accumulation/h1_xu_first_level_standalone.py",
+    "source_name": "h1_xu_first_level_standalone.py",
+    "source_group": "author-authorized Downloads/project supplement",
+    "original_sha256": "4d286ba4d5ee8753dd48640282c9051d42b2aefcb51269b68760b8fcc5490ff5",
+    "packaged_sha256": "4d286ba4d5ee8753dd48640282c9051d42b2aefcb51269b68760b8fcc5490ff5",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/postpeak/Scatter_ablation_post_SWE_revised_v5.ipynb",
+    "source_name": "Scatter_ablation_post_SWE_revised_v5.ipynb",
+    "source_group": "author-authorized Downloads/project supplement",
+    "original_sha256": "dbc6ab581092c289b807e5c7cf3559a450892e628b018e280a5984f99f752ced",
+    "packaged_sha256": "0279d8aa8de78fef650df8015b19eec5ef3248c671913a80d877d168ab8d69cb",
+    "change": "Cleared saved notebook outputs; all cell source text preserved."
+  },
+  {
+    "file": "analysis/postpeak/SWE_peak_SWE50_revised_v5.ipynb",
+    "source_name": "SWE_peak_SWE50_revised_v5.ipynb",
+    "source_group": "author-authorized Downloads/project supplement",
+    "original_sha256": "7f91cbff50bf08a464d62819719b53277a806aa0d74f73d76355c41f2f86d5f2",
+    "packaged_sha256": "91a00b169fa7e29fe2eb8cdacb172c856b820691853a4171838f74d22ad91e89",
+    "change": "Cleared saved notebook outputs; all cell source text preserved."
+  },
+  {
+    "file": "analysis/streamflow/East_River_Streamflow_MarJun.ipynb",
+    "source_name": "East_River_Streamflow_MarJun.ipynb",
+    "source_group": "author-authorized Downloads/project supplement",
+    "original_sha256": "4fd0785629133549c52b4b4b262ae131e0fe3eb4a272e5702d69f5bd2400e37e",
+    "packaged_sha256": "98570d0df2dbd175c0c7c887ace1ad445c6c034c2ccbdedb4aa7dca3db558abd",
+    "change": "Cleared saved notebook outputs; all cell source text preserved."
+  },
+  {
+    "file": "analysis/aso/redraw_aso.py",
+    "source_name": "redraw_aso.py",
+    "source_group": "author-authorized Downloads/project supplement",
+    "original_sha256": "09aacc58358b8a2672c005560fc6c279ed70932bb605810cecf5c7196e6ca7d6",
+    "packaged_sha256": "ce6832f10453baf9823f23ef272db66dd73e5459797320a42d10aaf7bade85d2",
+    "change": "Input rasters/watershed are explicit required CLI options; repository-relative font/output defaults. Scientific calculations unchanged."
+  },
+  {
+    "file": "analysis/study_area/draw_east_river_domains_cluster_v0.3.0.py",
+    "source_name": "draw_east_river_domains_cluster_v0.3.0.py",
+    "source_group": "author-authorized Downloads/project supplement",
+    "original_sha256": "03341f4d987c68fb88af8e9fc39af992abb768c59a2afe8679a16c546494641a",
+    "packaged_sha256": "03341f4d987c68fb88af8e9fc39af992abb768c59a2afe8679a16c546494641a",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/wy2026/east_river_publication.py",
+    "source_name": "east_river_publication.py",
+    "source_group": "verified comparison bundle v0.3.3",
+    "original_sha256": "68d6954f72a7a8f53953976cbe75b5e3487281392729f3e505fcc8545a0b3db5",
+    "packaged_sha256": "68d6954f72a7a8f53953976cbe75b5e3487281392729f3e505fcc8545a0b3db5",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/wy2026/east_river_daily_longwave.py",
+    "source_name": "east_river_daily_longwave.py",
+    "source_group": "verified comparison bundle v0.3.3",
+    "original_sha256": "51c3907ab2db786ac9b656df9f76855221aa1e5b4433131efd9288e7fb89732d",
+    "packaged_sha256": "51c3907ab2db786ac9b656df9f76855221aa1e5b4433131efd9288e7fb89732d",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/wy2026/modis_fsno_validation_v0.1.5.py",
+    "source_name": "modis_fsno_validation_v0.1.5.py",
+    "source_group": "verified comparison bundle v0.3.3",
+    "original_sha256": "d66c3db7a3a0a1206f9c85dcb53b1569315c5feca83d5689af64ae5c74fe8e45",
+    "packaged_sha256": "d66c3db7a3a0a1206f9c85dcb53b1569315c5feca83d5689af64ae5c74fe8e45",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/wy2026/East_River_Noah_iSnobal_FSNO_2panel_WY2026_vs_2018_2025_v0.2.0.py",
+    "source_name": "East_River_Noah_iSnobal_FSNO_2panel_WY2026_vs_2018_2025_v0.2.0.py",
+    "source_group": "verified comparison bundle v0.3.3",
+    "original_sha256": "75df524430f1ca927d9ff7bb42d1b234b619416ad0e52ed540ca8d2d6cfede0b",
+    "packaged_sha256": "75df524430f1ca927d9ff7bb42d1b234b619416ad0e52ed540ca8d2d6cfede0b",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/wy2026/East_River_LDASIN_WY2026_Forcing_Climatology_v0.1.1.py",
+    "source_name": "East_River_LDASIN_WY2026_Forcing_Climatology_v0.1.1.py",
+    "source_group": "verified comparison bundle v0.3.3",
+    "original_sha256": "48737eb592c605261f9a4ae976260dc517d2157ee018422595667b85cf4704b5",
+    "packaged_sha256": "48737eb592c605261f9a4ae976260dc517d2157ee018422595667b85cf4704b5",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/wy2026/validate_longwave.py",
+    "source_name": "validate_longwave.py",
+    "source_group": "verified comparison bundle v0.3.3",
+    "original_sha256": "482cd4ecf4f16208a0cfb1c990a818a2c99552bbb7b0730670a6971663601176",
+    "packaged_sha256": "482cd4ecf4f16208a0cfb1c990a818a2c99552bbb7b0730670a6971663601176",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/wy2026/East_River_WY2021_WY2026_Comparison_Plot_v0.3.1.py",
+    "source_name": "East_River_WY2021_WY2026_Comparison_Plot_v0.3.1.py",
+    "source_group": "v4 label-only update",
+    "original_sha256": "74108c1a4381f56f09bcc76be98675224ffb0631eb441cf0e689bcbc4b0525fb",
+    "packaged_sha256": "74108c1a4381f56f09bcc76be98675224ffb0631eb441cf0e689bcbc4b0525fb",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/wy2026/fonts/COPYING",
+    "source_name": "COPYING",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "57c8ff33c9c0cfc3ef00e650a1cc910d7ee479a8bc509f6c9209a7c2a11399d6",
+    "packaged_sha256": "57c8ff33c9c0cfc3ef00e650a1cc910d7ee479a8bc509f6c9209a7c2a11399d6",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/wy2026/fonts/LICENSE",
+    "source_name": "LICENSE",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "772b1b47eead8722156abaed483154e1dd1137e7035290550cea6444192a2e3f",
+    "packaged_sha256": "772b1b47eead8722156abaed483154e1dd1137e7035290550cea6444192a2e3f",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/wy2026/fonts/NimbusSans-Regular.ttf",
+    "source_name": "NimbusSans-Regular.ttf",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "df5d1ce7b86c2e74974008623612bae136123a35ba7885de8a0721b68258edbc",
+    "packaged_sha256": "df5d1ce7b86c2e74974008623612bae136123a35ba7885de8a0721b68258edbc",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/wy2026/fonts/SOURCE.txt",
+    "source_name": "SOURCE.txt",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "4f40948e30e1d39a15d7211a9d5f9b95671c7cba993c576db414582283147125",
+    "packaged_sha256": "4f40948e30e1d39a15d7211a9d5f9b95671c7cba993c576db414582283147125",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/study_area/fonts/COPYING",
+    "source_name": "COPYING",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "57c8ff33c9c0cfc3ef00e650a1cc910d7ee479a8bc509f6c9209a7c2a11399d6",
+    "packaged_sha256": "57c8ff33c9c0cfc3ef00e650a1cc910d7ee479a8bc509f6c9209a7c2a11399d6",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/study_area/fonts/LICENSE",
+    "source_name": "LICENSE",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "772b1b47eead8722156abaed483154e1dd1137e7035290550cea6444192a2e3f",
+    "packaged_sha256": "772b1b47eead8722156abaed483154e1dd1137e7035290550cea6444192a2e3f",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/study_area/fonts/NimbusSans-Regular.ttf",
+    "source_name": "NimbusSans-Regular.ttf",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "df5d1ce7b86c2e74974008623612bae136123a35ba7885de8a0721b68258edbc",
+    "packaged_sha256": "df5d1ce7b86c2e74974008623612bae136123a35ba7885de8a0721b68258edbc",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/study_area/fonts/SOURCE.txt",
+    "source_name": "SOURCE.txt",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "4f40948e30e1d39a15d7211a9d5f9b95671c7cba993c576db414582283147125",
+    "packaged_sha256": "4f40948e30e1d39a15d7211a9d5f9b95671c7cba993c576db414582283147125",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/study_area/basemap/ne_110m_admin_1_states_provinces.cpg",
+    "source_name": "ne_110m_admin_1_states_provinces.cpg",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824",
+    "packaged_sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/study_area/basemap/ne_110m_admin_1_states_provinces.dbf",
+    "source_name": "ne_110m_admin_1_states_provinces.dbf",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "70268ef39c77531822311ec9779010531f22b6d8270976add033253bd262c3c9",
+    "packaged_sha256": "70268ef39c77531822311ec9779010531f22b6d8270976add033253bd262c3c9",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/study_area/basemap/ne_110m_admin_1_states_provinces.prj",
+    "source_name": "ne_110m_admin_1_states_provinces.prj",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "3259f0e55290a82b1350646f604e8a7ee1e2136c0320a40fad838ab40819fff8",
+    "packaged_sha256": "3259f0e55290a82b1350646f604e8a7ee1e2136c0320a40fad838ab40819fff8",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/study_area/basemap/ne_110m_admin_1_states_provinces.README.html",
+    "source_name": "ne_110m_admin_1_states_provinces.README.html",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "f4a180bcee79b81d2dc71006a9ff117c3572d44a08cfea34565a71278012cf4d",
+    "packaged_sha256": "f4a180bcee79b81d2dc71006a9ff117c3572d44a08cfea34565a71278012cf4d",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/study_area/basemap/ne_110m_admin_1_states_provinces.sbn",
+    "source_name": "ne_110m_admin_1_states_provinces.sbn",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "4d05bb144539aec576a26b682dab42a71e2fc502088d8c7bacccc914805495f9",
+    "packaged_sha256": "4d05bb144539aec576a26b682dab42a71e2fc502088d8c7bacccc914805495f9",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/study_area/basemap/ne_110m_admin_1_states_provinces.sbx",
+    "source_name": "ne_110m_admin_1_states_provinces.sbx",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "36b362b8b410af01e66d40e074afb8b666a59920cdf893b0cb9e89f07600b90f",
+    "packaged_sha256": "36b362b8b410af01e66d40e074afb8b666a59920cdf893b0cb9e89f07600b90f",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/study_area/basemap/ne_110m_admin_1_states_provinces.shp",
+    "source_name": "ne_110m_admin_1_states_provinces.shp",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "eb48c91cc468a8c0484b2fb5d6ade77017397a09f1295b538c87ad7b9e44e048",
+    "packaged_sha256": "eb48c91cc468a8c0484b2fb5d6ade77017397a09f1295b538c87ad7b9e44e048",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/study_area/basemap/ne_110m_admin_1_states_provinces.shx",
+    "source_name": "ne_110m_admin_1_states_provinces.shx",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "bf6142c5fd6b00463a84cc88dd459e7d7aee027a0f3fcd5e506d9501a69c2c8b",
+    "packaged_sha256": "bf6142c5fd6b00463a84cc88dd459e7d7aee027a0f3fcd5e506d9501a69c2c8b",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/study_area/basemap/ne_110m_admin_1_states_provinces.VERSION.txt",
+    "source_name": "ne_110m_admin_1_states_provinces.VERSION.txt",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "548358969090d629b41888f5fe664ac31b7203dfd849f7c1ef820ac055b62191",
+    "packaged_sha256": "548358969090d629b41888f5fe664ac31b7203dfd849f7c1ef820ac055b62191",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/study_area/basemap/ne_110m_lakes.cpg",
+    "source_name": "ne_110m_lakes.cpg",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824",
+    "packaged_sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/study_area/basemap/ne_110m_lakes.dbf",
+    "source_name": "ne_110m_lakes.dbf",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "ee65c43bdb14463f9a31eda58f7245e3ae0796ac606a67bea0e8386080878cbf",
+    "packaged_sha256": "ee65c43bdb14463f9a31eda58f7245e3ae0796ac606a67bea0e8386080878cbf",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/study_area/basemap/ne_110m_lakes.prj",
+    "source_name": "ne_110m_lakes.prj",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4",
+    "packaged_sha256": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/study_area/basemap/ne_110m_lakes.README.html",
+    "source_name": "ne_110m_lakes.README.html",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "229722a22c582d1861cbdbf3d3dd0704495cdfe702fbbcba208599fa1799e77a",
+    "packaged_sha256": "229722a22c582d1861cbdbf3d3dd0704495cdfe702fbbcba208599fa1799e77a",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/study_area/basemap/ne_110m_lakes.shp",
+    "source_name": "ne_110m_lakes.shp",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "e65b633578c284776b452bcea07126747d3d6484a507ca43866097059a389dfd",
+    "packaged_sha256": "e65b633578c284776b452bcea07126747d3d6484a507ca43866097059a389dfd",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/study_area/basemap/ne_110m_lakes.shx",
+    "source_name": "ne_110m_lakes.shx",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "954c018f338248ba6ec6fde3cfe0f8742a4bdb2f886fe888baf6d7b5433c39ab",
+    "packaged_sha256": "954c018f338248ba6ec6fde3cfe0f8742a4bdb2f886fe888baf6d7b5433c39ab",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/study_area/basemap/ne_110m_lakes.VERSION.txt",
+    "source_name": "ne_110m_lakes.VERSION.txt",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "30d0ad7c0f48ffeaaf390112b5b95823c7efa1da3ee5abc116eb481989340b58",
+    "packaged_sha256": "30d0ad7c0f48ffeaaf390112b5b95823c7efa1da3ee5abc116eb481989340b58",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/study_area/basemap/ne_110m_land.cpg",
+    "source_name": "ne_110m_land.cpg",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824",
+    "packaged_sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/study_area/basemap/ne_110m_land.dbf",
+    "source_name": "ne_110m_land.dbf",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "db7cf6d2de2811df09bd7fcc6f243ab78a715b83571a0cb7b36b4e2af3297caa",
+    "packaged_sha256": "db7cf6d2de2811df09bd7fcc6f243ab78a715b83571a0cb7b36b4e2af3297caa",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/study_area/basemap/ne_110m_land.prj",
+    "source_name": "ne_110m_land.prj",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "3259f0e55290a82b1350646f604e8a7ee1e2136c0320a40fad838ab40819fff8",
+    "packaged_sha256": "3259f0e55290a82b1350646f604e8a7ee1e2136c0320a40fad838ab40819fff8",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/study_area/basemap/ne_110m_land.README.html",
+    "source_name": "ne_110m_land.README.html",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "631fd1579d3da3e480c1082695508784ae295bf53b8e1248455b22bb6b6d24d2",
+    "packaged_sha256": "631fd1579d3da3e480c1082695508784ae295bf53b8e1248455b22bb6b6d24d2",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/study_area/basemap/ne_110m_land.shp",
+    "source_name": "ne_110m_land.shp",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "8689e6932b8e370e2ca4587cf3ba21e460b1235db37b6ed3c172c35b4a6088de",
+    "packaged_sha256": "8689e6932b8e370e2ca4587cf3ba21e460b1235db37b6ed3c172c35b4a6088de",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/study_area/basemap/ne_110m_land.shx",
+    "source_name": "ne_110m_land.shx",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "2719254764a70262a34333581d582d503b8af5d6626e6da4eb2b5f86e7316faa",
+    "packaged_sha256": "2719254764a70262a34333581d582d503b8af5d6626e6da4eb2b5f86e7316faa",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/study_area/basemap/ne_110m_land.VERSION.txt",
+    "source_name": "ne_110m_land.VERSION.txt",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "0874a8fe36effb87780f431845b5a7d85be657f2bd998ce8eeace717860d3b78",
+    "packaged_sha256": "0874a8fe36effb87780f431845b5a7d85be657f2bd998ce8eeace717860d3b78",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/study_area/basemap/sources.json",
+    "source_name": "sources.json",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "3decd169da94b271281d42f8b97ce813bad00a201032700ba60a0768b7ae8f54",
+    "packaged_sha256": "3decd169da94b271281d42f8b97ce813bad00a201032700ba60a0768b7ae8f54",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/streamflow/fonts/COPYING",
+    "source_name": "COPYING",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "57c8ff33c9c0cfc3ef00e650a1cc910d7ee479a8bc509f6c9209a7c2a11399d6",
+    "packaged_sha256": "57c8ff33c9c0cfc3ef00e650a1cc910d7ee479a8bc509f6c9209a7c2a11399d6",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/streamflow/fonts/LICENSE",
+    "source_name": "LICENSE",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "772b1b47eead8722156abaed483154e1dd1137e7035290550cea6444192a2e3f",
+    "packaged_sha256": "772b1b47eead8722156abaed483154e1dd1137e7035290550cea6444192a2e3f",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/streamflow/fonts/NimbusSans-Regular.ttf",
+    "source_name": "NimbusSans-Regular.ttf",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "df5d1ce7b86c2e74974008623612bae136123a35ba7885de8a0721b68258edbc",
+    "packaged_sha256": "df5d1ce7b86c2e74974008623612bae136123a35ba7885de8a0721b68258edbc",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/streamflow/fonts/SOURCE.txt",
+    "source_name": "SOURCE.txt",
+    "source_group": "bundled publication asset and license",
+    "original_sha256": "4f40948e30e1d39a15d7211a9d5f9b95671c7cba993c576db414582283147125",
+    "packaged_sha256": "4f40948e30e1d39a15d7211a9d5f9b95671c7cba993c576db414582283147125",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "docs/PLOTTING_PROTOCOL.md",
+    "source_name": "East_River_Plotting_Requirements_JHM_AMS_v6.md",
+    "source_group": "project plotting protocol",
+    "original_sha256": "10c617aabc0ecbf5926e5cc962f0c9f4b3360818b61e52ae58739317ab43198c",
+    "packaged_sha256": "10c617aabc0ecbf5926e5cc962f0c9f4b3360818b61e52ae58739317ab43198c",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "docs/LONGWAVE_v0.3.md",
+    "source_name": "LONGWAVE_v0.3.md",
+    "source_group": "longwave method documentation",
+    "original_sha256": "4a1b833cc608ead08984bd2e1fa7b8da981a62706df914677cc8fa7e74ecb766",
+    "packaged_sha256": "4a1b833cc608ead08984bd2e1fa7b8da981a62706df914677cc8fa7e74ecb766",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "workflow/tests/test_aso_qc.py",
+    "source_name": "East_River_Workflow_Code_v0.8.2/tests/test_aso_qc.py",
+    "source_group": "East_River_Workflow_Code_v0.8.2updated.zip",
+    "original_sha256": "a3e2b63e6a2f43c206e3662a7a5ef8e0163136b88d71c6d12535da4661d4f885",
+    "packaged_sha256": "a3e2b63e6a2f43c206e3662a7a5ef8e0163136b88d71c6d12535da4661d4f885",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "workflow/tests/test_metrics_v080.py",
+    "source_name": "East_River_Workflow_Code_v0.8.2/tests/test_metrics_v080.py",
+    "source_group": "East_River_Workflow_Code_v0.8.2updated.zip",
+    "original_sha256": "a5e51d7c8c291827b46c9c38e14a7d885adda6475d65c0bc8c12d45057574de7",
+    "packaged_sha256": "a5e51d7c8c291827b46c9c38e14a7d885adda6475d65c0bc8c12d45057574de7",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "workflow/tests/test_time_resolution.py",
+    "source_name": "East_River_Workflow_Code_v0.8.2/tests/test_time_resolution.py",
+    "source_group": "East_River_Workflow_Code_v0.8.2updated.zip",
+    "original_sha256": "913b0b234ac0c1e379e9d6f62ab7fb19c19ce30a6faef8fca111c0c732109426",
+    "packaged_sha256": "913b0b234ac0c1e379e9d6f62ab7fb19c19ce30a6faef8fca111c0c732109426",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "workflow/tests/test_spatial_station_envelope.py",
+    "source_name": "East_River_Workflow_Code_v0.8.2/tests/test_spatial_station_envelope.py",
+    "source_group": "East_River_Workflow_Code_v0.8.2updated.zip",
+    "original_sha256": "37139400b55eb6113c96a091e72ac72b14baefbc887eb48ff363dac00a7cdd87",
+    "packaged_sha256": "37139400b55eb6113c96a091e72ac72b14baefbc887eb48ff363dac00a7cdd87",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "workflow/tests/test_time_and_units.py",
+    "source_name": "East_River_Workflow_Code_v0.8.2/tests/test_time_and_units.py",
+    "source_group": "East_River_Workflow_Code_v0.8.2updated.zip",
+    "original_sha256": "4a76b454cf5f2338574bf74df6824a425c1783411e4f9ba6f997404bd57be585",
+    "packaged_sha256": "4a76b454cf5f2338574bf74df6824a425c1783411e4f9ba6f997404bd57be585",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "workflow/tests/test_config_v080.py",
+    "source_name": "East_River_Workflow_Code_v0.8.2/tests/test_config_v080.py",
+    "source_group": "East_River_Workflow_Code_v0.8.2updated.zip",
+    "original_sha256": "755d5eb6aff6d77cec5afcbaf4a4da34bdd13bf6543df6fb7465cb3b89c40ac3",
+    "packaged_sha256": "755d5eb6aff6d77cec5afcbaf4a4da34bdd13bf6543df6fb7465cb3b89c40ac3",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "workflow/requirements.txt",
+    "source_name": "East_River_Workflow_Code_v0.8.2/requirements.txt",
+    "source_group": "East_River_Workflow_Code_v0.8.2updated.zip",
+    "original_sha256": "934bc5b558e4190610baaf3564a72186ca2cdb3fed4eeb50fe1371273b52a281",
+    "packaged_sha256": "934bc5b558e4190610baaf3564a72186ca2cdb3fed4eeb50fe1371273b52a281",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "workflow/src/east_river_workflow/data_access.py",
+    "source_name": "East_River_Workflow_Code_v0.8.2/src/east_river_workflow/data_access.py",
+    "source_group": "East_River_Workflow_Code_v0.8.2updated.zip",
+    "original_sha256": "93062d71fc2c1bd6ba1ce84ef42bf657f07756351fbac704b9a439d41d3bcf61",
+    "packaged_sha256": "93062d71fc2c1bd6ba1ce84ef42bf657f07756351fbac704b9a439d41d3bcf61",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "workflow/src/east_river_workflow/logging_utils.py",
+    "source_name": "East_River_Workflow_Code_v0.8.2/src/east_river_workflow/logging_utils.py",
+    "source_group": "East_River_Workflow_Code_v0.8.2updated.zip",
+    "original_sha256": "6e23938e1c42751b76bca9874503b0d622b205b10c23a1582036c8e2c278488f",
+    "packaged_sha256": "6e23938e1c42751b76bca9874503b0d622b205b10c23a1582036c8e2c278488f",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "workflow/src/east_river_workflow/plotting.py",
+    "source_name": "East_River_Workflow_Code_v0.8.2/src/east_river_workflow/plotting.py",
+    "source_group": "East_River_Workflow_Code_v0.8.2updated.zip",
+    "original_sha256": "9c07440f2734d8113609605e07c0697bfb03c92879414dcdcdc3eddfdd46250f",
+    "packaged_sha256": "9c07440f2734d8113609605e07c0697bfb03c92879414dcdcdc3eddfdd46250f",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "workflow/src/east_river_workflow/workflow.py",
+    "source_name": "East_River_Workflow_Code_v0.8.2/src/east_river_workflow/workflow.py",
+    "source_group": "East_River_Workflow_Code_v0.8.2updated.zip",
+    "original_sha256": "eafb7985694655e7d8a397b091526a093d8d99b825d6bfeb101d6eb19c0fa1ef",
+    "packaged_sha256": "eafb7985694655e7d8a397b091526a093d8d99b825d6bfeb101d6eb19c0fa1ef",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "workflow/src/east_river_workflow/metrics.py",
+    "source_name": "East_River_Workflow_Code_v0.8.2/src/east_river_workflow/metrics.py",
+    "source_group": "East_River_Workflow_Code_v0.8.2updated.zip",
+    "original_sha256": "d943a74d3b05f59b902d71c2003bac1c09db547b29c5e501a5b57fe2c3462bb0",
+    "packaged_sha256": "d943a74d3b05f59b902d71c2003bac1c09db547b29c5e501a5b57fe2c3462bb0",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "workflow/src/east_river_workflow/cli.py",
+    "source_name": "East_River_Workflow_Code_v0.8.2/src/east_river_workflow/cli.py",
+    "source_group": "East_River_Workflow_Code_v0.8.2updated.zip",
+    "original_sha256": "a1c4c94d7c455d74ebc6480ca423f621a9dc9a6db9f447d1849f8cd3e60d1811",
+    "packaged_sha256": "a1c4c94d7c455d74ebc6480ca423f621a9dc9a6db9f447d1849f8cd3e60d1811",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "workflow/src/east_river_workflow/validation.py",
+    "source_name": "East_River_Workflow_Code_v0.8.2/src/east_river_workflow/validation.py",
+    "source_group": "East_River_Workflow_Code_v0.8.2updated.zip",
+    "original_sha256": "f3c642b68592f25cdb4518ec198a62329d6357b0a442b5687659765e034cebd3",
+    "packaged_sha256": "f3c642b68592f25cdb4518ec198a62329d6357b0a442b5687659765e034cebd3",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "workflow/src/east_river_workflow/aso.py",
+    "source_name": "East_River_Workflow_Code_v0.8.2/src/east_river_workflow/aso.py",
+    "source_group": "East_River_Workflow_Code_v0.8.2updated.zip",
+    "original_sha256": "50e5d5e220a2c9a1f64b2a604b7525492c8d1d8383dd8615e46868dc21e16e7b",
+    "packaged_sha256": "50e5d5e220a2c9a1f64b2a604b7525492c8d1d8383dd8615e46868dc21e16e7b",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "workflow/src/east_river_workflow/config.py",
+    "source_name": "East_River_Workflow_Code_v0.8.2/src/east_river_workflow/config.py",
+    "source_group": "East_River_Workflow_Code_v0.8.2updated.zip",
+    "original_sha256": "95f93333b6d02694f77eab16d0caeffcbe2f0dd4a8cf6eca4162b9b7889f9b37",
+    "packaged_sha256": "95f93333b6d02694f77eab16d0caeffcbe2f0dd4a8cf6eca4162b9b7889f9b37",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "workflow/src/east_river_workflow/utils.py",
+    "source_name": "East_River_Workflow_Code_v0.8.2/src/east_river_workflow/utils.py",
+    "source_group": "East_River_Workflow_Code_v0.8.2updated.zip",
+    "original_sha256": "6dbf0cd8c8145e75905ae2ce7f6e43cac7c452bd9fdce9646486e4e3079f6250",
+    "packaged_sha256": "6dbf0cd8c8145e75905ae2ce7f6e43cac7c452bd9fdce9646486e4e3079f6250",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "workflow/src/east_river_workflow/grids.py",
+    "source_name": "East_River_Workflow_Code_v0.8.2/src/east_river_workflow/grids.py",
+    "source_group": "East_River_Workflow_Code_v0.8.2updated.zip",
+    "original_sha256": "330262809824c2e7eabba15d443c58a6b0a1fc86a7c78d2da53aee92629bd46f",
+    "packaged_sha256": "330262809824c2e7eabba15d443c58a6b0a1fc86a7c78d2da53aee92629bd46f",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "workflow/src/east_river_workflow/aso_qc.py",
+    "source_name": "East_River_Workflow_Code_v0.8.2/src/east_river_workflow/aso_qc.py",
+    "source_group": "East_River_Workflow_Code_v0.8.2updated.zip",
+    "original_sha256": "ab4a349051f1abf3ce60c244358ad67d9e0fef0717864394b6171c1360d6d3a3",
+    "packaged_sha256": "ab4a349051f1abf3ce60c244358ad67d9e0fef0717864394b6171c1360d6d3a3",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "workflow/src/east_river_workflow/__init__.py",
+    "source_name": "East_River_Workflow_Code_v0.8.2/src/east_river_workflow/__init__.py",
+    "source_group": "East_River_Workflow_Code_v0.8.2updated.zip",
+    "original_sha256": "16aa5b71a3fa54b6051ae92c5a6cb0a027d78504442e5e96d6603be989d4a23b",
+    "packaged_sha256": "16aa5b71a3fa54b6051ae92c5a6cb0a027d78504442e5e96d6603be989d4a23b",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "workflow/src/east_river_workflow/constants.py",
+    "source_name": "East_River_Workflow_Code_v0.8.2/src/east_river_workflow/constants.py",
+    "source_group": "East_River_Workflow_Code_v0.8.2updated.zip",
+    "original_sha256": "99570ac9d44e7f23a9813fcb377034e88dfae0674dfa3618de73d24f9b3d8db7",
+    "packaged_sha256": "99570ac9d44e7f23a9813fcb377034e88dfae0674dfa3618de73d24f9b3d8db7",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "workflow/src/east_river_workflow/processing.py",
+    "source_name": "East_River_Workflow_Code_v0.8.2/src/east_river_workflow/processing.py",
+    "source_group": "East_River_Workflow_Code_v0.8.2updated.zip",
+    "original_sha256": "ef93a7df92e427c87ffad0a672ac19c8dbd29948086258f002ffc7236672378d",
+    "packaged_sha256": "ef93a7df92e427c87ffad0a672ac19c8dbd29948086258f002ffc7236672378d",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "workflow/config/east_river_config.yaml",
+    "source_name": "East_River_Workflow_Code_v0.8.2/config/east_river_config.yaml",
+    "source_group": "East_River_Workflow_Code_v0.8.2updated.zip",
+    "original_sha256": "8fac9d63367da04186ba23e16bb79329496d012798695377b527be80e5f2be06",
+    "packaged_sha256": "2d4b966322a00b62073def931e42464fd9257ca43da7794436b8105ea77dc1a2",
+    "change": "ASO quality_control.enabled changed from true to false following the author decision on 2026-09-29; other settings retained."
+  },
+  {
+    "file": "workflow/config/east_river_config.example.yaml",
+    "source_name": "East_River_Workflow_Code_v0.8.2/config/east_river_config.example.yaml",
+    "source_group": "East_River_Workflow_Code_v0.8.2updated.zip",
+    "original_sha256": "a72746e7b170f12ee2e93f9d574c436bced2460c5626126908770bf1d9dffc71",
+    "packaged_sha256": "ad0c9e776432f4982a75b9cd6b5745ec342227af0bd129e60d96d9a4bcb13926",
+    "change": "ASO quality_control.enabled changed from true to false following the author decision on 2026-09-29; other settings retained."
+  },
+  {
+    "file": "workflow/pyproject.toml",
+    "source_name": "East_River_Workflow_Code_v0.8.2/pyproject.toml",
+    "source_group": "East_River_Workflow_Code_v0.8.2updated.zip",
+    "original_sha256": "e4d2a1d041cf6ab7c4b619a14b4937d57b041dbb32c56e29403ad172eadca516",
+    "packaged_sha256": "e4d2a1d041cf6ab7c4b619a14b4937d57b041dbb32c56e29403ad172eadca516",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "workflow/environment.yml",
+    "source_name": "East_River_Workflow_Code_v0.8.2/environment.yml",
+    "source_group": "East_River_Workflow_Code_v0.8.2updated.zip",
+    "original_sha256": "d9e09fc313d527c54e36d9adc7c2685fd3a72d205e8670ffcffca162eed683b0",
+    "packaged_sha256": "d9e09fc313d527c54e36d9adc7c2685fd3a72d205e8670ffcffca162eed683b0",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "data/reference/streamflow/isnobal_watershed_daily.csv",
+    "source_name": "isnobal_watershed_daily.csv",
+    "source_group": "archived output1 daily tables",
+    "original_sha256": "aed648bee7fa0e9cc5bc28e3b20b498ba315c348cf8947a30377bcbaf6b6c959",
+    "packaged_sha256": "aed648bee7fa0e9cc5bc28e3b20b498ba315c348cf8947a30377bcbaf6b6c959",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "data/reference/streamflow/noahmp_watershed_daily.csv",
+    "source_name": "noahmp_watershed_daily.csv",
+    "source_group": "archived output1 daily tables",
+    "original_sha256": "6e9cc95e3c6e2068cde16010cdb6f97d0c916acee585511ac7cb1bf04d651776",
+    "packaged_sha256": "6e9cc95e3c6e2068cde16010cdb6f97d0c916acee585511ac7cb1bf04d651776",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "data/reference/streamflow/streamflow_daily_products.csv",
+    "source_name": "streamflow_daily_products.csv",
+    "source_group": "archived output1 daily tables",
+    "original_sha256": "0b10f4cdb9c7eb7a9d3e980ce598200b4cdaf02fcb6eefbc47bda1b756ba6852",
+    "packaged_sha256": "0b10f4cdb9c7eb7a9d3e980ce598200b4cdaf02fcb6eefbc47bda1b756ba6852",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "data/reference/streamflow/usgs_discharge_daily.csv",
+    "source_name": "usgs_discharge_daily.csv",
+    "source_group": "archived output1 daily tables",
+    "original_sha256": "3adb0d385139d481e40268649071756f2937d3a8adc1e3a6cf765d01c54ceae8",
+    "packaged_sha256": "3adb0d385139d481e40268649071756f2937d3a8adc1e3a6cf765d01c54ceae8",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "data/reference/streamflow/noahmp_daily_completeness.csv",
+    "source_name": "noahmp_daily_completeness.csv",
+    "source_group": "archived output1 completeness diagnostics",
+    "original_sha256": "b519468a374bd7c7d4b639aed2cd3001d54d6d2f0322e868b3792eead45ae0ac",
+    "packaged_sha256": "b519468a374bd7c7d4b639aed2cd3001d54d6d2f0322e868b3792eead45ae0ac",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "data/reference/streamflow/marjun_metrics_annual.csv",
+    "source_name": "marjun_metrics_annual.csv",
+    "source_group": "previously validated streamflow results",
+    "original_sha256": "c54aa4abfcf91f97cbb4bb74ec679062ae54e17ccdbf562888c31299cb546fd0",
+    "packaged_sha256": "c54aa4abfcf91f97cbb4bb74ec679062ae54e17ccdbf562888c31299cb546fd0",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "data/reference/streamflow/marjun_metrics_multiyear.csv",
+    "source_name": "marjun_metrics_multiyear.csv",
+    "source_group": "previously validated streamflow results",
+    "original_sha256": "99d91ad169cbffd2bec674b48288fae28ce5d758c8be983f101576965c63aa06",
+    "packaged_sha256": "99d91ad169cbffd2bec674b48288fae28ce5d758c8be983f101576965c63aa06",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "data/reference/streamflow/marjun_plot_data.csv",
+    "source_name": "marjun_plot_data.csv",
+    "source_group": "previously validated streamflow results",
+    "original_sha256": "a220a7ec170e93b24820e1fc397a4654ae798da8f15eb64e69038631e08794f4",
+    "packaged_sha256": "a220a7ec170e93b24820e1fc397a4654ae798da8f15eb64e69038631e08794f4",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "data/reference/postpeak/table3_watershed_annual_metrics.csv",
+    "source_name": "table3_watershed_annual_metrics.csv",
+    "source_group": "previously validated postpeak results",
+    "original_sha256": "cae718ea8b87589c6a65247f1b488fa005fe479bd18aea8479163c4d4f88ff2d",
+    "packaged_sha256": "cae718ea8b87589c6a65247f1b488fa005fe479bd18aea8479163c4d4f88ff2d",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "data/reference/postpeak/h2_peak_and_postpeak_swe50_timing_v5.csv",
+    "source_name": "h2_peak_and_postpeak_swe50_timing_v5.csv",
+    "source_group": "previously validated postpeak results",
+    "original_sha256": "7d83ce87de0febd683ba0743a6bfb0956eca48124ed9929382ae8aeb0fa8b83f",
+    "packaged_sha256": "7d83ce87de0febd683ba0743a6bfb0956eca48124ed9929382ae8aeb0fa8b83f",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "data/reference/postpeak/h2_postpeak_ablation_window_metrics_v5.csv",
+    "source_name": "h2_postpeak_ablation_window_metrics_v5.csv",
+    "source_group": "previously validated postpeak results",
+    "original_sha256": "7b4cc175ded5f017724c51d60beedcaaf394171ffa31fce06e9435d34244d179",
+    "packaged_sha256": "7b4cc175ded5f017724c51d60beedcaaf394171ffa31fce06e9435d34244d179",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "data/reference/accumulation/h1_xu_first_level_metrics.csv",
+    "source_name": "h1_xu_first_level_metrics.csv",
+    "source_group": "author supplied accumulation results",
+    "original_sha256": "5cf9ec380d11a38a66cd6e94ad25aed277df8edf2bba8cc04cae0db3c91ef838",
+    "packaged_sha256": "5cf9ec380d11a38a66cd6e94ad25aed277df8edf2bba8cc04cae0db3c91ef838",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "docs/validation/numerical_preflight.json",
+    "source_name": "numerical_preflight.json",
+    "source_group": "this publication audit",
+    "original_sha256": "aad43ca3cbdcc6f5f0f66f1b07c07930018f82d5f51a987ac1c72eba5aedd691",
+    "packaged_sha256": "aad43ca3cbdcc6f5f0f66f1b07c07930018f82d5f51a987ac1c72eba5aedd691",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "data/reference/watershed/aso_watershed_observations_raw_native.csv",
+    "source_name": "aso_watershed_observations_raw_native.csv",
+    "source_group": "Desktop/Paper structure/Watershed-av",
+    "original_sha256": "79a9082334d89d731f700a91eae9f4f33dba80c77cbf788225d4d63a9f0d5f2e",
+    "packaged_sha256": "79a9082334d89d731f700a91eae9f4f33dba80c77cbf788225d4d63a9f0d5f2e",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "data/reference/watershed/watershed_yearly_stats_replot_with_aso.csv",
+    "source_name": "watershed_yearly_stats_replot_with_aso.csv",
+    "source_group": "Desktop/Paper structure/Watershed-av",
+    "original_sha256": "09febf0de329b3647c4d3d25300d2bdbb44909eb5de59588f78fc78fe45b096f",
+    "packaged_sha256": "09febf0de329b3647c4d3d25300d2bdbb44909eb5de59588f78fc78fe45b096f",
+    "change": "Unchanged bytes."
+  },
+  {
+    "file": "analysis/aso/prepare_unfiltered_aso.py",
+    "source_name": "prepare_unfiltered_aso.py",
+    "source_group": "publication unfiltered-ASO revision (2026-09-29)",
+    "original_sha256": null,
+    "packaged_sha256": "b9760164f03ebdf44b3d759c3a1dec87ede79a9060dffc5ec43836c3b3fc551f",
+    "change": "New preparation/test code or regenerated raw-ASO table. Scientific metric definitions retained; observation lineage explicitly unfiltered. Updated publication packaging."
+  },
+  {
+    "file": "tests/test_unfiltered_aso.py",
+    "source_name": "test_unfiltered_aso.py",
+    "source_group": "publication unfiltered-ASO revision (2026-09-29)",
+    "original_sha256": null,
+    "packaged_sha256": "21f8650d45aef0f8fd5c4d7fbc3556cf581cfa53b14c1d9f6379f120a9bead40",
+    "change": "New preparation/test code or regenerated raw-ASO table. Scientific metric definitions retained; observation lineage explicitly unfiltered."
+  },
+  {
+    "file": "data/reference/aso_unfiltered/aso_bulk_density_metrics_all.csv",
+    "source_name": "aso_bulk_density_metrics_all.csv",
+    "source_group": "publication unfiltered-ASO revision (2026-09-29)",
+    "original_sha256": null,
+    "packaged_sha256": "c2ba44262084d5bbfbc5f68219a7f002bcf3e6a1c200e721d88d56483b1b5769",
+    "change": "New preparation/test code or regenerated raw-ASO table. Scientific metric definitions retained; observation lineage explicitly unfiltered."
+  },
+  {
+    "file": "data/reference/aso_unfiltered/aso_bulk_density_metrics_by_elevation.csv",
+    "source_name": "aso_bulk_density_metrics_by_elevation.csv",
+    "source_group": "publication unfiltered-ASO revision (2026-09-29)",
+    "original_sha256": null,
+    "packaged_sha256": "b44ea04f0bb72f421f148e6d824485613841219afa3de8d67975ff16bf7ab2bc",
+    "change": "New preparation/test code or regenerated raw-ASO table. Scientific metric definitions retained; observation lineage explicitly unfiltered."
+  },
+  {
+    "file": "data/reference/aso_unfiltered/aso_isnobal_density_grid_scale_diagnostic.csv",
+    "source_name": "aso_isnobal_density_grid_scale_diagnostic.csv",
+    "source_group": "publication unfiltered-ASO revision (2026-09-29)",
+    "original_sha256": null,
+    "packaged_sha256": "7e4c1b08320ea49bb2f9d691e5929fb804de5a9285162d426ff44a582a142a82",
+    "change": "New preparation/test code or regenerated raw-ASO table. Scientific metric definitions retained; observation lineage explicitly unfiltered."
+  },
+  {
+    "file": "data/reference/aso_unfiltered/aso_spatial_metrics_by_elevation.csv",
+    "source_name": "aso_spatial_metrics_by_elevation.csv",
+    "source_group": "publication unfiltered-ASO revision (2026-09-29)",
+    "original_sha256": null,
+    "packaged_sha256": "b48fbb2d4b64dce6a6d0ce666ace7ee714c0adecb3c823c2be806aae58a394d9",
+    "change": "New preparation/test code or regenerated raw-ASO table. Scientific metric definitions retained; observation lineage explicitly unfiltered."
+  },
+  {
+    "file": "data/reference/aso_unfiltered/isnobal_density_aggregation_order_diagnostic.csv",
+    "source_name": "isnobal_density_aggregation_order_diagnostic.csv",
+    "source_group": "publication unfiltered-ASO revision (2026-09-29)",
+    "original_sha256": null,
+    "packaged_sha256": "ebe5438958d61e486b3a18e562910729d77341c17fb258e2eb14b5a96ed4d5ab",
+    "change": "New preparation/test code or regenerated raw-ASO table. Scientific metric definitions retained; observation lineage explicitly unfiltered."
+  },
+  {
+    "file": "data/reference/aso_unfiltered/table6_aso_validation.csv",
+    "source_name": "table6_aso_validation.csv",
+    "source_group": "publication unfiltered-ASO revision (2026-09-29)",
+    "original_sha256": null,
+    "packaged_sha256": "3ea860158e9cb56b4a6597e0de86e8eafcd0e051692b73cb995da742eecaa1d8",
+    "change": "New preparation/test code or regenerated raw-ASO table. Scientific metric definitions retained; observation lineage explicitly unfiltered."
+  }
+]

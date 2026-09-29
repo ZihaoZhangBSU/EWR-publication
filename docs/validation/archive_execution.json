@@ -1,0 +1,16 @@
+[
+  {
+    "check": "Streamflow notebook full execution and all three numerical CSV regressions",
+    "status": "passed",
+    "figure_exports": "600 dpi PNG and PDF; original code cells unchanged"
+  },
+  {
+    "check": "Desktop accumulation plotting notebook full execution and built-in numerical closure checks",
+    "status": "passed",
+    "figure_exports": "600 dpi PNG and PDF"
+  },
+  {
+    "check": "Postpeak timing full execution; all 18 source-year daily series and exported timing CSV match",
+    "status": "passed"
+  }
+]

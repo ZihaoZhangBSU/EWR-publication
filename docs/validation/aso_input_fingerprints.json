@@ -1,0 +1,476 @@
+{
+  "aso_treatment": "original observations; no magnitude clipping or outlier removal",
+  "minimum_valid_coverage": 0.5,
+  "model_states": "existing archived states; unchanged time selection",
+  "native_products": true,
+  "inputs": [
+    {
+      "sha256": "ad94d01152279db613d95d3ba8523c65281589cdcf2524ac68b6ca0780f1ce67",
+      "file": "config.yaml"
+    },
+    {
+      "sha256": "49379cdd3652a07047623c2a14db1bb8b6a42b632bda8cb57672ceac0ad9af07",
+      "file": "east_river_fraction_noahmp.npz"
+    },
+    {
+      "sha256": "29b52d1f4812d479e1c0d56bafa6bd65934153def494462a9b70c31ce7888763",
+      "file": "geo_em.d01.nc"
+    },
+    {
+      "sha256": "1a2d4f5a89c46acc2cde87f1dbdb4c36373d940e2e6f994b2e53d188e60a88fb",
+      "file": "topo.nc"
+    },
+    {
+      "sha256": "31af4fc6ef317dc1675fe2610e1a9ec8348c9296f52daa2fe276bc1574df9f9b",
+      "file": "east_river_fraction_isnobal.npz"
+    },
+    {
+      "sha256": "0f17a6fd4dbdc1d607beafcb0feecf8593f467d8dd03de1eba7002425d24a9d8",
+      "file": "ASO_50M_SWE_USCOGE_20180331.tif"
+    },
+    {
+      "sha256": "a76b79f5795ca0e2d001f222a5f4425d6735e4ea473c1de466ff1ac7479fefa2",
+      "file": "20180331_swe_isnobal_on_noah.tif"
+    },
+    {
+      "sha256": "5a21a1ab21c0d8018c6f7c073ed7d0c5c4b7b36f5234fe28a4fd81541c779552",
+      "file": "20180331_swe_noah_native.tif"
+    },
+    {
+      "sha256": "ca9b4163f0265a9acfec2c21b23a6dea505193370971c933032d597c1b018d76",
+      "file": "20180331_swe_isnobal_native.tif"
+    },
+    {
+      "sha256": "49381504d3fa25379db4427ce09e4e5817cf6f846df95930c2d8bc727a5b7d27",
+      "file": "ASO_50M_SD_USCOGE_20180331.tif"
+    },
+    {
+      "sha256": "84d51495f3570f310ab13e0a2b51cc826f2e4099005e49968f596c2663f5a07c",
+      "file": "20180331_snow_depth_isnobal_on_noah.tif"
+    },
+    {
+      "sha256": "c244067988b74d748cab7cdde9a5327fa36684d7e03fd29ee3805575c66cf177",
+      "file": "20180331_snow_depth_noah_native.tif"
+    },
+    {
+      "sha256": "c7ddaf8d9b4a72ec8567452ead337bfe222413ac4e0c560f0220cc986ae115d7",
+      "file": "20180331_snow_depth_isnobal_native.tif"
+    },
+    {
+      "sha256": "c5131acb5510cec89473fe639aa0be26962926f9c52fd1646eb5cec15ebb5779",
+      "file": "ASO_50M_SWE_USCOGE_20180524.tif"
+    },
+    {
+      "sha256": "e9cfa666e8032c6fc1bf5d126ea0d636ae925bae8db1dcb6a3af4409ebfbe26c",
+      "file": "20180524_swe_isnobal_on_noah.tif"
+    },
+    {
+      "sha256": "da94b30b2526a93ebb72021a80af0bf09020ad53272cec93c10703d72a860b07",
+      "file": "20180524_swe_noah_native.tif"
+    },
+    {
+      "sha256": "d9f384f17f8fe39166d8b751d4bba8aca44839553d13bb5d627d92cdcfb3a7d4",
+      "file": "20180524_swe_isnobal_native.tif"
+    },
+    {
+      "sha256": "7182d9cf629e7e7d626fed7b3944d720de020c914e748fff64ea8e57bcfd9760",
+      "file": "ASO_50M_SD_USCOGE_20180524.tif"
+    },
+    {
+      "sha256": "4152d5a4aa12fb36f642d361bd8a8887e75501840e776d921c9b882699dcec7c",
+      "file": "20180524_snow_depth_isnobal_on_noah.tif"
+    },
+    {
+      "sha256": "119c25407b85d02912ffaa5364c25796c75a7ea85116a52b71c4020f55cc514b",
+      "file": "20180524_snow_depth_noah_native.tif"
+    },
+    {
+      "sha256": "00212b17ffc9cd69b420243d9268b7beebb0d3461787130d0cac92d7453afece",
+      "file": "20180524_snow_depth_isnobal_native.tif"
+    },
+    {
+      "sha256": "44c6e75f0b0c2750df37d527ee89516b6daa86f995a7882b47a6dcf193e6756a",
+      "file": "ASO_50M_SWE_USCOGE_20190407.tif"
+    },
+    {
+      "sha256": "032c1f9715379602c2a994cbd755da39cbbbbd632b2a0a8658f791030a3feaf5",
+      "file": "20190407_swe_isnobal_on_noah.tif"
+    },
+    {
+      "sha256": "f4686b0aca4589c1510f5a9403061e93f1a65898f2ea26f409a5b0c83b014257",
+      "file": "20190407_swe_noah_native.tif"
+    },
+    {
+      "sha256": "10a14a431a20b6fa854494768d9d0cef23b93341f84a4fb7e75ee51f2a024d8c",
+      "file": "20190407_swe_isnobal_native.tif"
+    },
+    {
+      "sha256": "27cdbe7c800f42ceeb8ab6b707c5e033e37ea05ce5ca2c2f0ebaff5b93d4fa24",
+      "file": "ASO_50M_SD_USCOGE_20190407.tif"
+    },
+    {
+      "sha256": "c623dd2178cffa08b33cd62c7f4a8a4cfc64f1cb2a284cae75299c675a9a4ecf",
+      "file": "20190407_snow_depth_isnobal_on_noah.tif"
+    },
+    {
+      "sha256": "ee3d34840cdf77e7bc88836ad568375b9f32e64c214f22506a850fe2ea59832d",
+      "file": "20190407_snow_depth_noah_native.tif"
+    },
+    {
+      "sha256": "b034506ca3317e3560e2dae7d8d8258c221d6bd10ba9c87ebbbb290e99b0864c",
+      "file": "20190407_snow_depth_isnobal_native.tif"
+    },
+    {
+      "sha256": "3b4c938097860a85f20e27d21bca5be21e768e37afbf1378fcfb3c3fdd071320",
+      "file": "ASO_50M_SWE_USCOGE_20190610.tif"
+    },
+    {
+      "sha256": "a01bd1b9ef03faa5a68adc92df79d4cf928c846bc15be9b0d86fa1bbddbd9f01",
+      "file": "20190610_swe_isnobal_on_noah.tif"
+    },
+    {
+      "sha256": "58a676de085f15c6c348d458e091a75a0fb6e838560404260633addce128dfb5",
+      "file": "20190610_swe_noah_native.tif"
+    },
+    {
+      "sha256": "4359e54c1a1553e88eb8a4d567c2f0cca4d3f35d3902ebfab019843a23c70084",
+      "file": "20190610_swe_isnobal_native.tif"
+    },
+    {
+      "sha256": "8f43023068e916578b67dddf9f4fc7b5468780475213547bf9a7fc436db25420",
+      "file": "ASO_50M_SD_USCOGE_20190610.tif"
+    },
+    {
+      "sha256": "cd63198d928286c1f9071ab4b839411c285d486e8bd49e6ea21b5b4ee591aa24",
+      "file": "20190610_snow_depth_isnobal_on_noah.tif"
+    },
+    {
+      "sha256": "997425c2515d4dc29bef5e72d97da9a073bb2b5eb8d865916c15fc0d15f2b3aa",
+      "file": "20190610_snow_depth_noah_native.tif"
+    },
+    {
+      "sha256": "188a9175f774bbbf13f5234df7890ca2f3e9f98cb5599e6c8721d7210e3a8d18",
+      "file": "20190610_snow_depth_isnobal_native.tif"
+    },
+    {
+      "sha256": "dc60a359649385d38d26e09837425e2ad011e5e2a6cdd98f5c6a829925a55392",
+      "file": "ASO_50M_SWE_USCOGE_20220421.tif"
+    },
+    {
+      "sha256": "7825225cfa435e3651082c1dbd2b07848acd72dd21b55b63ca32e49f14b305c8",
+      "file": "20220421_swe_isnobal_on_noah.tif"
+    },
+    {
+      "sha256": "9bc11fd0d010f7ccecbeb1d988273210cbe65b8519850fe22563cc6936d59b6b",
+      "file": "20220421_swe_noah_native.tif"
+    },
+    {
+      "sha256": "7dc0b765f00038c1b900cbe67eebcd42f18efff004feb3d13d9e240379dc7c63",
+      "file": "20220421_swe_isnobal_native.tif"
+    },
+    {
+      "sha256": "8b03547ebe35b100c3baa82361481207bc09cb4e7947305cce20566f3e629bf1",
+      "file": "ASO_50M_SD_USCOGE_20220421.tif"
+    },
+    {
+      "sha256": "72bf5bb6b4ce4c008aa6e32c73d49a2c799d596a532ce183954539951e0e2cdd",
+      "file": "20220421_snow_depth_isnobal_on_noah.tif"
+    },
+    {
+      "sha256": "24dcf159a12bc9fcda3161596e8ae8a57b96c0664c8841088d939a8dc25e3419",
+      "file": "20220421_snow_depth_noah_native.tif"
+    },
+    {
+      "sha256": "3c746fa4518c1e66b2ce1b23c524c8c59354e9d99e22cd7848ee36a58d870946",
+      "file": "20220421_snow_depth_isnobal_native.tif"
+    },
+    {
+      "sha256": "6ae179e9124e9e7a602415bb5374c7ff373e44c4d022c1ee9ea8fc6840454578",
+      "file": "ASO_50M_SWE_USCOGE_20220518.tif"
+    },
+    {
+      "sha256": "504b7e5de6c19e3496b12f7a3743da068e236d9cae5be06348f2caafc712c608",
+      "file": "20220518_swe_isnobal_on_noah.tif"
+    },
+    {
+      "sha256": "08295a0adfd8268743618e6ef01c73e6489dc19f94117370bf8f54fb310c3ff2",
+      "file": "20220518_swe_noah_native.tif"
+    },
+    {
+      "sha256": "4ff73ff7a2d948a7e0efe9f4737bd91eaa9b01f1f0ac0da9435232e3399267c7",
+      "file": "20220518_swe_isnobal_native.tif"
+    },
+    {
+      "sha256": "847975bc6025ddbdb5a07d7b5523d50d951b2d85e366e503697f5cd9fb415c94",
+      "file": "ASO_50M_SD_USCOGE_20220518.tif"
+    },
+    {
+      "sha256": "525d67e47874aa54fc9aac8037249da1b5fcb02c717e38769cef0a330a5606ea",
+      "file": "20220518_snow_depth_isnobal_on_noah.tif"
+    },
+    {
+      "sha256": "ac74fbb3e64545a262d366bae268f0925d1be3bee8c7b862c49ae524f9e70bd2",
+      "file": "20220518_snow_depth_noah_native.tif"
+    },
+    {
+      "sha256": "09f0dba2d5acdca80d16cf4ae819cc43db4777725c0c0ce174813826b5cc3390",
+      "file": "20220518_snow_depth_isnobal_native.tif"
+    },
+    {
+      "sha256": "140241dd5424d949ab202e255be9bf15e04eace34a38163e6bc4ab7a4624ab4c",
+      "file": "ASO_50M_SWE_USCOGE_20230401.tif"
+    },
+    {
+      "sha256": "ed1ff2b2aa0a4edd34e6486ccf6dd95711136d1a76b88ba0dc1f711876fe11a3",
+      "file": "20230401_swe_isnobal_on_noah.tif"
+    },
+    {
+      "sha256": "146989ddd5677c46b9ef6c76d2fb62cfb908616891ddc7be96b44b53d9d23366",
+      "file": "20230401_swe_noah_native.tif"
+    },
+    {
+      "sha256": "8973796564fff2662163702903631f32d812c2f7a9e79f81732257209248373d",
+      "file": "20230401_swe_isnobal_native.tif"
+    },
+    {
+      "sha256": "5ecbb260cc37d7fe36ffbe2f54cb6c8349ed1282b825ce50284627ae5d869f63",
+      "file": "ASO_50M_SD_USCOGE_20230401.tif"
+    },
+    {
+      "sha256": "c642c2cf13cad663c8b82fd67a870ae52928d61a82fdfd66984548b2017a71c2",
+      "file": "20230401_snow_depth_isnobal_on_noah.tif"
+    },
+    {
+      "sha256": "c01001e4ff6a17c66aeefc2aea7499dfde0e61c8f63f3171598849df6565a49f",
+      "file": "20230401_snow_depth_noah_native.tif"
+    },
+    {
+      "sha256": "9267c70f7f2ab4f2181f8d651d4dd19d4260d577d94a1314f03ca593197668c9",
+      "file": "20230401_snow_depth_isnobal_native.tif"
+    },
+    {
+      "sha256": "45e0dd180c2d60c6f3f1170e56706026a78d3da40312f777f17b2efe1f1fa30b",
+      "file": "ASO_50M_SWE_USCOGE_20230523.tif"
+    },
+    {
+      "sha256": "fecaf7f926cc8f7c345b073ceb3175c0293f728e0482d9b63da40250c661d5d7",
+      "file": "20230523_swe_isnobal_on_noah.tif"
+    },
+    {
+      "sha256": "c21783444e7c8e0b5bdbf2fe6f19c79d574e502a9d40d9f02d94257c11dfdea5",
+      "file": "20230523_swe_noah_native.tif"
+    },
+    {
+      "sha256": "a9d1f8aaa84f97d90b4e75eb661d339b6ebf56ba8b0779df0d7a7de443a268a0",
+      "file": "20230523_swe_isnobal_native.tif"
+    },
+    {
+      "sha256": "3993075061f9ee56807efee274378345a52011fcbc748351ebe2a871295cfa23",
+      "file": "ASO_50M_SD_USCOGE_20230523.tif"
+    },
+    {
+      "sha256": "f497324a414e147aa8aae7d7445fc3123d067eca0cfbcdad32035fad992ed05a",
+      "file": "20230523_snow_depth_isnobal_on_noah.tif"
+    },
+    {
+      "sha256": "48cef4edf9033bf1c50e052f03c59ccebc1a7d647c9b6ad005bdd7136e07a314",
+      "file": "20230523_snow_depth_noah_native.tif"
+    },
+    {
+      "sha256": "f7be990f62b269d0e0abb5cf2236be6f99f521c755bfb790b53bea1ae5c85f12",
+      "file": "20230523_snow_depth_isnobal_native.tif"
+    },
+    {
+      "sha256": "ec92264c948ca6a0cb3ce41a916e1d6fef932a29c868b10818b30bacd3f5c183",
+      "file": "ASO_50M_SWE_USCOGE_20240403.tif"
+    },
+    {
+      "sha256": "1534d04d4c7684c0c7289b451194c73733064be88885d64f89af4344c4c6b0dd",
+      "file": "20240403_swe_isnobal_on_noah.tif"
+    },
+    {
+      "sha256": "a5ec9d8fc6ae46ea9c968404bd5cbdda5d9851ea8903c2bc54c3e82c2a2fc85e",
+      "file": "20240403_swe_noah_native.tif"
+    },
+    {
+      "sha256": "f6449c158b6c7c2e3c62dc5e422d5b6ebda27cffd51c3133b583841e5deb4786",
+      "file": "20240403_swe_isnobal_native.tif"
+    },
+    {
+      "sha256": "0936dcb5f53a8a22a105c9e69af4c27703c6297d20aa36555f9bf73f5ac3a022",
+      "file": "ASO_50M_SD_USCOGE_20240403.tif"
+    },
+    {
+      "sha256": "20508260fca5d8dcf7fc37afa06626f52a7a26fafb9efbd301b137e2af7f8268",
+      "file": "20240403_snow_depth_isnobal_on_noah.tif"
+    },
+    {
+      "sha256": "2cc038a33e2554057a24b1e201811905080b77d9839bdde2507482311b423c3a",
+      "file": "20240403_snow_depth_noah_native.tif"
+    },
+    {
+      "sha256": "a68ea77acdfd6a5b349773f97c2d1583e56656e2fc3b77e5b1538e106ba4f0cf",
+      "file": "20240403_snow_depth_isnobal_native.tif"
+    },
+    {
+      "sha256": "2287d0dac12a4952f61530363978657520bcd783d9cfef6e00ea617e59b0f78e",
+      "file": "ASO_50M_SWE_USCOGE_20240520.tif"
+    },
+    {
+      "sha256": "fa26015e3c9e2069d50c1d445fb9b780a84833677637eb7d805013f2605dd795",
+      "file": "20240520_swe_isnobal_on_noah.tif"
+    },
+    {
+      "sha256": "6a05fb21f99f22fd6df1aa9cad249719b0be31490c1421c15505a71c731893d4",
+      "file": "20240520_swe_noah_native.tif"
+    },
+    {
+      "sha256": "28d2a0f8afe98e035d16e6d1d7982be23e7df9012c98f7d105dbdb2dfe3ddbb8",
+      "file": "20240520_swe_isnobal_native.tif"
+    },
+    {
+      "sha256": "658d1eb27b385bcda95f10b0f7a505e9eff23ccab31faf579d972956b3a8e120",
+      "file": "ASO_50M_SD_USCOGE_20240520.tif"
+    },
+    {
+      "sha256": "8faaa9e065c68fa972b62e7b4be395885c589091ba80e64c17de55b1685a4563",
+      "file": "20240520_snow_depth_isnobal_on_noah.tif"
+    },
+    {
+      "sha256": "2302e5d95544e74bec59ec50020f45829008c42cae5d13cc7ada397a72213c45",
+      "file": "20240520_snow_depth_noah_native.tif"
+    },
+    {
+      "sha256": "b4bc8c985ce77fa8067b48131150a63a79de44a5411ce96baba688a6cd23ebf3",
+      "file": "20240520_snow_depth_isnobal_native.tif"
+    },
+    {
+      "sha256": "218f8fa2727404142d083d5196687353774ef36c508cab40590870995d2e4524",
+      "file": "ASO_50M_SWE_USCOGE_20250407.tif"
+    },
+    {
+      "sha256": "6f68103d6be79662e1a4b8039f1c62b657300245a14724c9d5173999b725c275",
+      "file": "20250407_swe_isnobal_on_noah.tif"
+    },
+    {
+      "sha256": "f25c5d9914fcef300674184a125c944689396c9660c50974bdda2ce7e3629b31",
+      "file": "20250407_swe_noah_native.tif"
+    },
+    {
+      "sha256": "1c378990bbfcf637fd108b5cc334720a347e2a57805b772bdf1ffa505d80f780",
+      "file": "20250407_swe_isnobal_native.tif"
+    },
+    {
+      "sha256": "91e3b8042e8113ed5a40cd92d3e27e89048b8b64d7b21e4d70c3710a9476b465",
+      "file": "ASO_50M_SD_USCOGE_20250407.tif"
+    },
+    {
+      "sha256": "d691689b397afc3dd4c1f2c9b33115446772ec95494129893a2d0c4d902ce219",
+      "file": "20250407_snow_depth_isnobal_on_noah.tif"
+    },
+    {
+      "sha256": "3d0b68ee2f6f5dc483bcf4549fa0461b33ebe74c0e606857a1c2aac61bc2c213",
+      "file": "20250407_snow_depth_noah_native.tif"
+    },
+    {
+      "sha256": "dab54d5a46e998024eb1f35c9ce5150d64dcfe1de6ae31620ed6d743d856b53a",
+      "file": "20250407_snow_depth_isnobal_native.tif"
+    },
+    {
+      "sha256": "d19ce7b6d75a652e8653b0d9d6e3e58c561203facc7257e68c1b08dc85fe1729",
+      "file": "ASO_50M_SWE_USCOGE_20250520.tif"
+    },
+    {
+      "sha256": "d157ecdf8cadffbf9fcf37dc54022377e0d672e6fba8220a3516bbcaa11045fd",
+      "file": "20250520_swe_isnobal_on_noah.tif"
+    },
+    {
+      "sha256": "bde269faef9725cb767e86dd3257c295b0d3bf235387a9f1831f3a3185158ec0",
+      "file": "20250520_swe_noah_native.tif"
+    },
+    {
+      "sha256": "9687d951133749b713bbbe6d96e344bebe9ac938888a1b8c038b75c61dc38693",
+      "file": "20250520_swe_isnobal_native.tif"
+    },
+    {
+      "sha256": "7df32deb57c8b64197a660025f5657a0170d22cfaa730dd7bfa98e82512a7d98",
+      "file": "ASO_50M_SD_USCOGE_20250520.tif"
+    },
+    {
+      "sha256": "cf5c41b979a5f3d32a281ed07428590509342011c0bfc8d0fb5d3fda011c8f44",
+      "file": "20250520_snow_depth_isnobal_on_noah.tif"
+    },
+    {
+      "sha256": "c75f0ec9a07db2fcba8386d0b0417bf30ce1ce18a28459143af32d79a5db29de",
+      "file": "20250520_snow_depth_noah_native.tif"
+    },
+    {
+      "sha256": "1251f2f464aefbc47a616dba8f26e852d3d29cb25d4c871bbf7d3615dffc9cf4",
+      "file": "20250520_snow_depth_isnobal_native.tif"
+    },
+    {
+      "sha256": "3097ff39ef9553fac4d28aa53da27c3d7dcc8ac9e497a0f16634cbfc7d49bec9",
+      "file": "ASO_50M_SWE_USCOGE_20260318.tif"
+    },
+    {
+      "sha256": "57df31a3ef0c20d47d3373437bff418c2e4e83d80070e801a390adba98815619",
+      "file": "20260318_swe_isnobal_on_noah.tif"
+    },
+    {
+      "sha256": "084052ba9844e709abf598e3a0a0b80f60b13c79233e53449d49e5615e2d44b2",
+      "file": "20260318_swe_noah_native.tif"
+    },
+    {
+      "sha256": "d790e94a607b3a1bf9944338f6d6dcd2945bd97d2932c16c666beb612f6ecd13",
+      "file": "20260318_swe_isnobal_native.tif"
+    },
+    {
+      "sha256": "01e259d3922b7e37c3ae52dcfac6c72e8cb87ea84a5dab7a29b68ff7cbdbc94b",
+      "file": "ASO_50M_SD_USCOGE_20260318.tif"
+    },
+    {
+      "sha256": "ea37b08d9341ee69523781101b014e1c4128edd77d848f59855da45dcefdb04f",
+      "file": "20260318_snow_depth_isnobal_on_noah.tif"
+    },
+    {
+      "sha256": "2fbf89bf65b8bbaabfb4eba44f4b638c75124eeb4787f601bd98376469219855",
+      "file": "20260318_snow_depth_noah_native.tif"
+    },
+    {
+      "sha256": "d0c4d3eaed99af0376d4d93bb619ea61e7475162fbc95a31488221517e368d18",
+      "file": "20260318_snow_depth_isnobal_native.tif"
+    },
+    {
+      "sha256": "e80ebc722844c5702a2cccb9ad75348b2ba2c74689aa6c9a9c025acd6c351b4a",
+      "file": "ASO_50M_SWE_USCOGE_20260405.tif"
+    },
+    {
+      "sha256": "d856c84d13af8b27fdd5d522e7052573bc3a25bfa0c340db80ffa02ae4ac93a2",
+      "file": "20260405_swe_isnobal_on_noah.tif"
+    },
+    {
+      "sha256": "6d2c4c201a46d71ba4e06940f2a658934a6713cfe7b0331daf9a7cc8e9eaab6d",
+      "file": "20260405_swe_noah_native.tif"
+    },
+    {
+      "sha256": "878df4e1e2971314b1e9124ec92914361b7d9f761c0ae7ac42aefba747aac377",
+      "file": "20260405_swe_isnobal_native.tif"
+    },
+    {
+      "sha256": "54eab3610763ebca5523da7b5609a9573f4dc9007ff9bbe0841a95d33d0fa593",
+      "file": "ASO_50M_SD_USCOGE_20260405.tif"
+    },
+    {
+      "sha256": "bd052abacc1ff249f1ef583c9eff5d3848248454e8b43d687364daf528a0909f",
+      "file": "20260405_snow_depth_isnobal_on_noah.tif"
+    },
+    {
+      "sha256": "4afaa9c45775f45beeba30c77a2f9373f4d13d6edd5ad53b4f6730c1b1ed4063",
+      "file": "20260405_snow_depth_noah_native.tif"
+    },
+    {
+      "sha256": "6b519e70b863d37b25da9cac3f411e142c9c76003c3232958edf135f4979b8fd",
+      "file": "20260405_snow_depth_isnobal_native.tif"
+    }
+  ]
+}

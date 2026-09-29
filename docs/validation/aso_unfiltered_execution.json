@@ -1,0 +1,30 @@
+{
+  "raw_rasters_processed": 28,
+  "dates": 14,
+  "notebook_full_execution": "passed",
+  "changed_whole_watershed_MB_RMSE_entries_at_1_decimal": 23,
+  "raw_reference_tables": [
+    "aso_bulk_density_metrics_all.csv",
+    "aso_bulk_density_metrics_by_elevation.csv",
+    "aso_isnobal_density_grid_scale_diagnostic.csv",
+    "aso_spatial_metrics_by_elevation.csv",
+    "isnobal_density_aggregation_order_diagnostic.csv",
+    "table6_aso_validation.csv"
+  ],
+  "lineage": "Original ASO; existing model states. New tables replace mixed-lineage baselines.",
+  "independent_raw_ASO_CSV_regression": {
+    "rows": 56,
+    "columns": 7,
+    "absolute_tolerance": 1e-05,
+    "maximum_differences": {
+      "aso_band_weighted_mean_mm": 4.7426125249216966e-07,
+      "r_isnobal": 4.99785377083839e-07,
+      "mb_isnobal_mm": 4.997290488084616e-07,
+      "rmse_isnobal_mm": 4.905526722609466e-07,
+      "r_noahmp": 4.852181210157624e-07,
+      "mb_noahmp_mm": 4.994020983417613e-07,
+      "rmse_noahmp_mm": 4.996588529593282e-07
+    }
+  },
+  "native_density_execution": "passed; topology verified against model raster and archived weights"
+}

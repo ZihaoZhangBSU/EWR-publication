@@ -1,0 +1,37 @@
+water_year,window,start_date,end_date,n_calendar_days,event_rule,bias_definition,n_cell_days,pearson_r,mean_bias_mm_day
+2018,Before common window,2018-04-09,2018-04-20,12,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,1538,0.2885282968244315,1.2243025041423392
+2018,Common post-peak window,2018-04-21,2018-05-14,24,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,8058,0.6849024503795876,2.066027954106827
+2018,After common window,,,0,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,0,,
+2018,Overall (earlier peak to later SWE50),2018-04-09,2018-05-14,36,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,9596,0.7107605623371629,1.9311203111258575
+2019,Before common window,,,0,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,0,,
+2019,Common post-peak window,2019-04-03,2019-06-08,67,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,20247,0.6428079689680317,0.7808898399447728
+2019,After common window,2019-06-09,2019-06-10,2,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,887,0.216480353378477,2.3076205420252167
+2019,Overall (earlier peak to later SWE50),2019-04-03,2019-06-10,69,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,21134,0.6457274933696513,0.8449671623988919
+2020,Before common window,,,0,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,0,,
+2020,Common post-peak window,2020-04-20,2020-05-08,19,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,7545,0.5791802547475343,3.309716356792543
+2020,After common window,2020-05-09,2020-05-09,1,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,410,0.4366697039592642,4.8401510979707645
+2020,Overall (earlier peak to later SWE50),2020-04-20,2020-05-09,20,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,7955,0.5730783203981308,3.3885948286823067
+2021,Before common window,,,0,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,0,,
+2021,Common post-peak window,2021-03-27,2021-05-16,51,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,12732,0.4701393650844177,2.2299025744846066
+2021,After common window,,,0,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,0,,
+2021,Overall (earlier peak to later SWE50),2021-03-27,2021-05-16,51,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,12732,0.4701393650844177,2.2299025744846066
+2022,Before common window,2022-03-14,2022-03-31,18,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,1380,0.5067075392880849,5.075393367051277
+2022,Common post-peak window,2022-04-01,2022-05-17,47,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,13314,0.6696852131533637,2.7192449182268708
+2022,After common window,2022-05-18,2022-05-18,1,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,417,0.36740400604919987,4.520088654627903
+2022,Overall (earlier peak to later SWE50),2022-03-14,2022-05-18,66,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,15111,0.6680355815404906,2.9841140001841806
+2023,Before common window,,,0,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,0,,
+2023,Common post-peak window,2023-04-05,2023-05-26,52,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,15816,0.47331499266449356,1.4216833983797472
+2023,After common window,2023-05-27,2023-05-28,2,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,955,0.3214486068662469,0.7600547133940052
+2023,Overall (earlier peak to later SWE50),2023-04-05,2023-05-28,54,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,16771,0.4870423212873022,1.3840079232046603
+2024,Before common window,,,0,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,0,,
+2024,Common post-peak window,2024-04-01,2024-05-30,60,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,16377,0.5362427647541259,1.6102649734655579
+2024,After common window,,,0,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,0,,
+2024,Overall (earlier peak to later SWE50),2024-04-01,2024-05-30,60,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,16377,0.5362427647541259,1.6102649734655579
+2025,Before common window,,,0,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,0,,
+2025,Common post-peak window,2025-04-05,2025-05-06,32,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,9762,0.40806323488541296,3.286922799727213
+2025,After common window,2025-05-07,2025-05-11,5,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,1468,0.48166842992370534,1.3593768830091668
+2025,Overall (earlier peak to later SWE50),2025-04-05,2025-05-11,37,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,11230,0.43509200842789736,3.034951525841007
+2026,Before common window,2026-02-21,2026-03-06,14,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,478,0.06406885457640295,4.027468305738309
+2026,Common post-peak window,2026-03-07,2026-03-25,19,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,4471,0.567181634273577,6.637127106222004
+2026,After common window,2026-03-26,2026-05-09,45,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,8601,0.33204449277195336,4.091291271328495
+2026,Overall (earlier peak to later SWE50),2026-02-21,2026-05-09,78,both models loss > 1 mm/day,Noah-MP loss minus iSnobal loss,13550,0.4379531161991325,4.9290716875836065

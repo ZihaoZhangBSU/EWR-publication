@@ -1,0 +1,145 @@
+date,variable,elevation_band,table,metric,archived,unfiltered,changed_at_display_precision
+2019-04-07,SWE,All,aso_spatial_metrics_by_elevation.csv,aso_band_weighted_mean_mm,575.4016304751829,575.9777169554864,True
+2019-04-07,SWE,All,aso_spatial_metrics_by_elevation.csv,aso_reference_mean_isnobal_support_mm,600.1764223813444,600.7474896658628,True
+2019-04-07,SWE,All,aso_spatial_metrics_by_elevation.csv,aso_reference_mean_noahmp_support_mm,600.1764223813444,600.7474896658628,True
+2019-04-07,SWE,All,aso_spatial_metrics_by_elevation.csv,mb_isnobal_mm,-97.94229555767107,-98.51336284218944,True
+2019-04-07,SWE,All,aso_spatial_metrics_by_elevation.csv,rmb_isnobal_pct,-16.31891755578492,-16.39846433598629,True
+2019-04-07,SWE,All,aso_spatial_metrics_by_elevation.csv,rmse_isnobal_mm,221.9598399786625,223.18987710229143,True
+2019-04-07,SWE,All,aso_spatial_metrics_by_elevation.csv,rrmse_isnobal_pct,36.98243244844298,37.15202825507106,True
+2019-04-07,SWE,All,aso_spatial_metrics_by_elevation.csv,r_isnobal,0.9185856506359488,0.9180144167227652,False
+2019-04-07,SWE,All,aso_spatial_metrics_by_elevation.csv,mb_noahmp_mm,-129.76501717047017,-130.3360844549885,True
+2019-04-07,SWE,All,aso_spatial_metrics_by_elevation.csv,rmb_noahmp_pct,-21.621145438468947,-21.69565194978705,True
+2019-04-07,SWE,All,aso_spatial_metrics_by_elevation.csv,rmse_noahmp_mm,237.13704767829768,238.3283626831996,True
+2019-04-07,SWE,All,aso_spatial_metrics_by_elevation.csv,rrmse_noahmp_pct,39.51122350614831,39.67196980144826,True
+2019-04-07,SWE,All,aso_spatial_metrics_by_elevation.csv,r_noahmp,0.9123198850145492,0.9118064256836812,False
+2019-06-10,SWE,All,aso_spatial_metrics_by_elevation.csv,aso_band_weighted_mean_mm,271.66804375065857,272.0106651577257,True
+2019-06-10,SWE,All,aso_spatial_metrics_by_elevation.csv,aso_reference_mean_isnobal_support_mm,275.6754237509323,276.0231919652929,True
+2019-06-10,SWE,All,aso_spatial_metrics_by_elevation.csv,aso_reference_mean_noahmp_support_mm,275.6754237509323,276.0231919652929,True
+2019-06-10,SWE,All,aso_spatial_metrics_by_elevation.csv,mb_isnobal_mm,-56.49879605772818,-56.84656427208876,True
+2019-06-10,SWE,All,aso_spatial_metrics_by_elevation.csv,rmb_isnobal_pct,-20.494680044012124,-20.594850696182316,True
+2019-06-10,SWE,All,aso_spatial_metrics_by_elevation.csv,rmse_isnobal_mm,182.00183083652257,182.77021945387665,True
+2019-06-10,SWE,All,aso_spatial_metrics_by_elevation.csv,rrmse_isnobal_pct,66.02033230243909,66.21552998954455,True
+2019-06-10,SWE,All,aso_spatial_metrics_by_elevation.csv,r_isnobal,0.923199148164682,0.923004849763659,False
+2019-06-10,SWE,All,aso_spatial_metrics_by_elevation.csv,mb_noahmp_mm,-58.17996770447336,-58.52773591883393,True
+2019-06-10,SWE,All,aso_spatial_metrics_by_elevation.csv,rmb_noahmp_pct,-21.104517375128044,-21.203919678674392,True
+2019-06-10,SWE,All,aso_spatial_metrics_by_elevation.csv,rmse_noahmp_mm,183.57051067789467,184.0607411598932,True
+2019-06-10,SWE,All,aso_spatial_metrics_by_elevation.csv,rrmse_noahmp_pct,66.5893637452961,66.68307103087083,True
+2019-06-10,SWE,All,aso_spatial_metrics_by_elevation.csv,r_noahmp,0.9062845316143352,0.9064121846120876,False
+2022-05-18,SWE,All,aso_spatial_metrics_by_elevation.csv,aso_band_weighted_mean_mm,144.05856679544547,144.10784889599037,False
+2022-05-18,SWE,All,aso_spatial_metrics_by_elevation.csv,aso_reference_mean_isnobal_support_mm,146.92313938785452,146.9740519125304,True
+2022-05-18,SWE,All,aso_spatial_metrics_by_elevation.csv,aso_reference_mean_noahmp_support_mm,146.92313938785452,146.9740519125304,True
+2022-05-18,SWE,All,aso_spatial_metrics_by_elevation.csv,mb_isnobal_mm,22.80314935427285,22.75223682959697,False
+2022-05-18,SWE,All,aso_spatial_metrics_by_elevation.csv,rmb_isnobal_pct,15.520461548317478,15.480444699951292,False
+2022-05-18,SWE,All,aso_spatial_metrics_by_elevation.csv,rmse_isnobal_mm,107.570486791516,107.57814562289116,False
+2022-05-18,SWE,All,aso_spatial_metrics_by_elevation.csv,rrmse_isnobal_pct,73.21548344236399,73.19533225287606,False
+2022-05-18,SWE,All,aso_spatial_metrics_by_elevation.csv,r_isnobal,0.8653012547329915,0.8653611035653905,False
+2022-05-18,SWE,All,aso_spatial_metrics_by_elevation.csv,mb_noahmp_mm,-4.345647279560634,-4.396559804236509,True
+2022-05-18,SWE,All,aso_spatial_metrics_by_elevation.csv,rmb_noahmp_pct,-2.9577691421967187,-2.9913850417984404,False
+2022-05-18,SWE,All,aso_spatial_metrics_by_elevation.csv,rmse_noahmp_mm,125.55572534518298,125.53501324446852,True
+2022-05-18,SWE,All,aso_spatial_metrics_by_elevation.csv,rrmse_noahmp_pct,85.45674008076777,85.41304509940228,True
+2022-05-18,SWE,All,aso_spatial_metrics_by_elevation.csv,r_noahmp,0.8127858060879863,0.8129714824681074,False
+2023-04-01,SWE,All,aso_spatial_metrics_by_elevation.csv,aso_band_weighted_mean_mm,601.4349545735254,601.4543281356908,True
+2023-04-01,SWE,All,aso_spatial_metrics_by_elevation.csv,aso_reference_mean_isnobal_support_mm,603.7101247643911,603.7329266455865,False
+2023-04-01,SWE,All,aso_spatial_metrics_by_elevation.csv,aso_reference_mean_noahmp_support_mm,603.7101247643911,603.7329266455865,False
+2023-04-01,SWE,All,aso_spatial_metrics_by_elevation.csv,mb_isnobal_mm,-138.8196140335452,-138.84241591474063,False
+2023-04-01,SWE,All,aso_spatial_metrics_by_elevation.csv,rmb_isnobal_pct,-22.99441542209054,-22.997323781256384,False
+2023-04-01,SWE,All,aso_spatial_metrics_by_elevation.csv,rmse_isnobal_mm,216.7657990017973,216.90178305924732,True
+2023-04-01,SWE,All,aso_spatial_metrics_by_elevation.csv,rrmse_isnobal_pct,35.90560934958546,35.92677713709935,False
+2023-04-01,SWE,All,aso_spatial_metrics_by_elevation.csv,r_isnobal,0.8759862577956021,0.8758404318744099,False
+2023-04-01,SWE,All,aso_spatial_metrics_by_elevation.csv,mb_noahmp_mm,-153.17426894972857,-153.19707083092396,False
+2023-04-01,SWE,All,aso_spatial_metrics_by_elevation.csv,rmb_noahmp_pct,-25.37215505695016,-25.374973613267294,False
+2023-04-01,SWE,All,aso_spatial_metrics_by_elevation.csv,rmse_noahmp_mm,222.88202232717603,223.0120057837489,True
+2023-04-01,SWE,All,aso_spatial_metrics_by_elevation.csv,rrmse_noahmp_pct,36.9187153212247,36.93885092914026,False
+2023-04-01,SWE,All,aso_spatial_metrics_by_elevation.csv,r_noahmp,0.8783764602147646,0.8782318683225243,False
+2023-05-23,SWE,All,aso_spatial_metrics_by_elevation.csv,aso_band_weighted_mean_mm,283.299063457144,283.40262233235933,True
+2023-05-23,SWE,All,aso_spatial_metrics_by_elevation.csv,aso_reference_mean_isnobal_support_mm,288.02429193823195,288.13244360993895,True
+2023-05-23,SWE,All,aso_spatial_metrics_by_elevation.csv,aso_reference_mean_noahmp_support_mm,288.02429193823195,288.13244360993895,True
+2023-05-23,SWE,All,aso_spatial_metrics_by_elevation.csv,mb_isnobal_mm,-28.48334434106913,-28.59149601277613,True
+2023-05-23,SWE,All,aso_spatial_metrics_by_elevation.csv,rmb_isnobal_pct,-9.88921599264881,-9.923039437891983,False
+2023-05-23,SWE,All,aso_spatial_metrics_by_elevation.csv,rmse_isnobal_mm,151.55684172806394,151.80957743439947,True
+2023-05-23,SWE,All,aso_spatial_metrics_by_elevation.csv,rrmse_isnobal_pct,52.6194650833708,52.687429271211336,True
+2023-05-23,SWE,All,aso_spatial_metrics_by_elevation.csv,r_isnobal,0.9207095885493808,0.9206529179383388,False
+2023-05-23,SWE,All,aso_spatial_metrics_by_elevation.csv,mb_noahmp_mm,-14.376593679228662,-14.484745350935652,True
+2023-05-23,SWE,All,aso_spatial_metrics_by_elevation.csv,rmb_noahmp_pct,-4.99145179126481,-5.027113632001978,False
+2023-05-23,SWE,All,aso_spatial_metrics_by_elevation.csv,rmse_noahmp_mm,168.18482440950177,168.32176095942367,True
+2023-05-23,SWE,All,aso_spatial_metrics_by_elevation.csv,rrmse_noahmp_pct,58.39258323585072,58.418190902267945,False
+2019-04-07,Snow depth,All,aso_spatial_metrics_by_elevation.csv,aso_band_weighted_mean_mm,1491.37184588197,1491.9863097306102,True
+2019-04-07,Snow depth,All,aso_spatial_metrics_by_elevation.csv,aso_reference_mean_isnobal_support_mm,1541.4252751841964,1541.9716368219915,True
+2019-04-07,Snow depth,All,aso_spatial_metrics_by_elevation.csv,aso_reference_mean_noahmp_support_mm,1541.4252751841964,1541.9716368219915,True
+2019-04-07,Snow depth,All,aso_spatial_metrics_by_elevation.csv,mb_isnobal_mm,-141.90742506309812,-142.45378670089318,True
+2019-04-07,Snow depth,All,aso_spatial_metrics_by_elevation.csv,rmb_isnobal_pct,-9.206247448235242,-9.238418094024796,False
+2019-04-07,Snow depth,All,aso_spatial_metrics_by_elevation.csv,rmse_isnobal_mm,378.1368803469786,379.649406675394,True
+2019-04-07,Snow depth,All,aso_spatial_metrics_by_elevation.csv,rrmse_isnobal_pct,24.531638765414183,24.62103696393876,True
+2019-04-07,Snow depth,All,aso_spatial_metrics_by_elevation.csv,r_isnobal,0.9273037756428608,0.9267381633919002,False
+2019-04-07,Snow depth,All,aso_spatial_metrics_by_elevation.csv,mb_noahmp_mm,-268.69563816492064,-269.24200074033894,True
+2019-04-07,Snow depth,All,aso_spatial_metrics_by_elevation.csv,rmb_noahmp_pct,-17.43163567450989,-17.460891906886665,True
+2019-04-07,Snow depth,All,aso_spatial_metrics_by_elevation.csv,rmse_noahmp_mm,463.2192990143163,464.5352611172983,True
+2019-04-07,Snow depth,All,aso_spatial_metrics_by_elevation.csv,rrmse_noahmp_pct,30.05136262339819,30.12605744647204,False
+2019-04-07,Snow depth,All,aso_spatial_metrics_by_elevation.csv,r_noahmp,0.919100820869991,0.918576912692226,False
+2019-06-10,Snow depth,All,aso_spatial_metrics_by_elevation.csv,aso_band_weighted_mean_mm,569.7688425043751,569.904173710176,True
+2019-06-10,Snow depth,All,aso_spatial_metrics_by_elevation.csv,aso_reference_mean_isnobal_support_mm,651.0294132380674,651.1497454258921,True
+2019-06-10,Snow depth,All,aso_spatial_metrics_by_elevation.csv,aso_reference_mean_noahmp_support_mm,651.0294132380674,651.1497454258921,True
+2019-06-10,Snow depth,All,aso_spatial_metrics_by_elevation.csv,mb_isnobal_mm,-188.53919675588168,-188.65952894370645,True
+2019-06-10,Snow depth,All,aso_spatial_metrics_by_elevation.csv,rmb_isnobal_pct,-28.96016568869477,-28.97329381896809,False
+2019-06-10,Snow depth,All,aso_spatial_metrics_by_elevation.csv,rmse_isnobal_mm,430.31532237115465,430.4322187272955,True
+2019-06-10,Snow depth,All,aso_spatial_metrics_by_elevation.csv,rrmse_isnobal_pct,66.09767755820236,66.10341503639324,False
+2019-06-10,Snow depth,All,aso_spatial_metrics_by_elevation.csv,mb_noahmp_mm,-123.7027905378416,-123.82312231343332,True
+2019-06-10,Snow depth,All,aso_spatial_metrics_by_elevation.csv,rmb_noahmp_pct,-19.001106251493763,-19.01607474828165,False
+2019-06-10,Snow depth,All,aso_spatial_metrics_by_elevation.csv,rmse_noahmp_mm,382.38008438395457,382.3521519765429,False
+2019-06-10,Snow depth,All,aso_spatial_metrics_by_elevation.csv,rrmse_noahmp_pct,58.734686422551306,58.71954257257078,False
+2019-06-10,Snow depth,All,aso_spatial_metrics_by_elevation.csv,r_noahmp,0.9183808915490096,0.9184556048842047,False
+2019-04-07,,All,aso_bulk_density_metrics_all.csv,aso_mean_density_kg_m3,376.68433215007207,376.8119448410592,True
+2019-04-07,,All,aso_bulk_density_metrics_all.csv,r_isnobal,-0.6941722304367022,-0.6911117614990789,False
+2019-04-07,,All,aso_bulk_density_metrics_all.csv,mb_isnobal_kg_m3,-0.4476026024336139,-0.5752152934208125,True
+2019-04-07,,All,aso_bulk_density_metrics_all.csv,rmb_isnobal_pct,-0.1188269763912792,-0.1526531473580118,True
+2019-04-07,,All,aso_bulk_density_metrics_all.csv,rmse_isnobal_kg_m3,77.37833458057779,77.48777320293962,True
+2019-04-07,,All,aso_bulk_density_metrics_all.csv,rrmse_isnobal_pct,20.54195727730721,20.564043752812637,True
+2019-04-07,,All,aso_bulk_density_metrics_all.csv,r_noahmp,-0.496115074563735,-0.4942260906915433,True
+2019-04-07,,All,aso_bulk_density_metrics_all.csv,mb_noahmp_kg_m3,1.4226882358722486,1.2950755448850524,True
+2019-04-07,,All,aso_bulk_density_metrics_all.csv,rmb_noahmp_pct,0.3776871280394656,0.3436928055535289,True
+2019-04-07,,All,aso_bulk_density_metrics_all.csv,rmse_noahmp_kg_m3,58.31145283589826,58.43480464194796,True
+2019-04-07,,All,aso_bulk_density_metrics_all.csv,rrmse_noahmp_pct,15.480190668686166,15.507683724462606,False
+2019-06-10,,All,aso_bulk_density_metrics_all.csv,aso_mean_density_kg_m3,487.4816007706479,487.8276015515085,True
+2019-06-10,,All,aso_bulk_density_metrics_all.csv,r_isnobal,-0.3830774553551921,-0.3863508068832311,True
+2019-06-10,,All,aso_bulk_density_metrics_all.csv,mb_isnobal_kg_m3,59.37125757666386,59.02525679580327,True
+2019-06-10,,All,aso_bulk_density_metrics_all.csv,rmb_isnobal_pct,12.179179169594354,12.099614004635391,True
+2019-06-10,,All,aso_bulk_density_metrics_all.csv,rmse_isnobal_kg_m3,78.9049291017466,78.53690698539454,True
+2019-06-10,,All,aso_bulk_density_metrics_all.csv,rrmse_isnobal_pct,16.186237383525388,16.09931597466242,True
+2019-06-10,,All,aso_bulk_density_metrics_all.csv,r_noahmp,0.1563849908563338,0.1591128788863619,False
+2019-06-10,,All,aso_bulk_density_metrics_all.csv,mb_noahmp_kg_m3,-20.513946583985344,-20.859947364845933,True
+2019-06-10,,All,aso_bulk_density_metrics_all.csv,rmb_noahmp_pct,-4.208147866823146,-4.276090015919976,True
+2019-06-10,,All,aso_bulk_density_metrics_all.csv,rmse_noahmp_kg_m3,48.22891910181712,48.146529183897314,True
+2019-06-10,,All,aso_bulk_density_metrics_all.csv,rrmse_noahmp_pct,9.893485010628746,9.86957872633077,False
+2022-05-18,,All,aso_bulk_density_metrics_all.csv,aso_mean_density_kg_m3,484.1266337969535,484.2830950179528,True
+2022-05-18,,All,aso_bulk_density_metrics_all.csv,r_isnobal,-0.0928657874988907,-0.096711082954486,True
+2022-05-18,,All,aso_bulk_density_metrics_all.csv,mb_isnobal_kg_m3,55.18649327098123,55.03003204998208,True
+2022-05-18,,All,aso_bulk_density_metrics_all.csv,rmb_isnobal_pct,11.399185547417511,11.363194919686814,False
+2022-05-18,,All,aso_bulk_density_metrics_all.csv,rmse_isnobal_kg_m3,66.90933046414078,66.79965276439815,True
+2022-05-18,,All,aso_bulk_density_metrics_all.csv,rrmse_isnobal_pct,13.820625801844043,13.793513226374715,False
+2022-05-18,,All,aso_bulk_density_metrics_all.csv,r_noahmp,-0.0573344322487481,-0.0539788848822953,True
+2022-05-18,,All,aso_bulk_density_metrics_all.csv,mb_noahmp_kg_m3,-16.2683301940035,-16.424791415002645,True
+2022-05-18,,All,aso_bulk_density_metrics_all.csv,rmb_noahmp_pct,-3.3603460454990306,-3.391568193061491,False
+2022-05-18,,All,aso_bulk_density_metrics_all.csv,rmse_noahmp_kg_m3,34.24954009402134,34.28336769334231,True
+2022-05-18,,All,aso_bulk_density_metrics_all.csv,rrmse_noahmp_pct,7.074500286300272,7.079199758577451,False
+2023-04-01,,All,aso_bulk_density_metrics_all.csv,aso_mean_density_kg_m3,312.379177400642,312.38319181472986,False
+2023-04-01,,All,aso_bulk_density_metrics_all.csv,r_isnobal,0.8685132618100402,0.868483605901291,False
+2023-04-01,,All,aso_bulk_density_metrics_all.csv,mb_isnobal_kg_m3,-47.085022380548175,-47.08903679463603,False
+2023-04-01,,All,aso_bulk_density_metrics_all.csv,rmb_isnobal_pct,-15.073034884191165,-15.074126274554454,False
+2023-04-01,,All,aso_bulk_density_metrics_all.csv,rmse_isnobal_kg_m3,55.02124762439085,55.02957778304841,False
+2023-04-01,,All,aso_bulk_density_metrics_all.csv,rrmse_isnobal_pct,17.6136092303692,17.616049526661374,False
+2023-04-01,,All,aso_bulk_density_metrics_all.csv,r_noahmp,-0.1645049967671381,-0.1644420547143249,False
+2023-04-01,,All,aso_bulk_density_metrics_all.csv,mb_noahmp_kg_m3,-51.58362865250032,-51.58764306658816,False
+2023-04-01,,All,aso_bulk_density_metrics_all.csv,rmb_noahmp_pct,-16.51314568459271,-16.51421856819495,False
+2023-04-01,,All,aso_bulk_density_metrics_all.csv,rmse_noahmp_kg_m3,77.50189437733592,77.50944483736197,False
+2023-04-01,,All,aso_bulk_density_metrics_all.csv,rrmse_noahmp_pct,24.8101986253507,24.8122968419286,False
+2023-05-23,,All,aso_bulk_density_metrics_all.csv,aso_mean_density_kg_m3,505.2401238236509,505.3355504430447,True
+2023-05-23,,All,aso_bulk_density_metrics_all.csv,r_isnobal,0.1421439471125065,0.138944679374473,False
+2023-05-23,,All,aso_bulk_density_metrics_all.csv,mb_isnobal_kg_m3,51.571579221755016,51.47615260236129,True
+2023-05-23,,All,aso_bulk_density_metrics_all.csv,rmb_isnobal_pct,10.207340389251344,10.18652904139248,False
+2023-05-23,,All,aso_bulk_density_metrics_all.csv,rmse_isnobal_kg_m3,62.879851346589945,62.83674234913545,True
+2023-05-23,,All,aso_bulk_density_metrics_all.csv,rrmse_isnobal_pct,12.445537949503302,12.434656990596515,False
+2023-05-23,,All,aso_bulk_density_metrics_all.csv,r_noahmp,0.0017282989039777,0.0031169054203878,False
+2023-05-23,,All,aso_bulk_density_metrics_all.csv,mb_noahmp_kg_m3,-56.115361141786,-56.21078776117972,True
+2023-05-23,,All,aso_bulk_density_metrics_all.csv,rmb_noahmp_pct,-11.106671559872494,-11.123458009613184,False
+2023-05-23,,All,aso_bulk_density_metrics_all.csv,rmse_noahmp_kg_m3,116.88171027734056,116.89841994773212,False
+2023-05-23,,All,aso_bulk_density_metrics_all.csv,rrmse_noahmp_pct,23.133893126456638,23.13283121388221,False

@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+outputs/
+local/
+*.nc
+*.hdf
+*.LDASIN_DOMAIN1
+*.LDASOUT_DOMAIN1
+analysis/wy2026/validation/
+*.log
+.env
+*.pem
+*.key
