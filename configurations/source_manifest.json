@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "retrieved_date": "2026-11-18",
+  "source_system": "Boise State Borah HPC, authenticated Open OnDemand file viewer",
+  "scope": "Configuration text and archived launch script only; no simulated or input data.",
+  "snapshot_scope": "One daily AWSM/SMRF reference snapshot: run20161001 in WY2017 erw_res_forcing. Other daily and annual configurations are not represented.",
+  "text_encoding": "UTF-8, LF; preserved source-viewer text, verified by byte count and FNV-1a checksum before publication.",
+  "files": [
+    {
+      "path": "iSnobal/katana_2017/katana_erw_run.ini",
+      "source_path": "/bsuscratch/zihaozhang/iSnobal/erw_2nd/katana_2017/katana_erw_run.ini",
+      "bytes": 899,
+      "sha256": "86a9136f208a2ed37a6fa6a929c9e794dfc718689964724bee295843ce1d6cb3",
+      "source_text_fnv1a32": "c663c8ca",
+      "settings_changes": [],
+      "relocated": false
+    },
+    {
+      "path": "iSnobal/katana_2017/datakatana_201710.ini",
+      "source_path": "/bsuscratch/zihaozhang/iSnobal/erw_2nd/katana_2017/datakatana_201710.ini",
+      "bytes": 669,
+      "sha256": "47ea45127ff85ad3eb85cec6e6ff5c9ad714b11b1e5c4f5faf8c71f72cf93f79",
+      "source_text_fnv1a32": "ca13339b",
+      "settings_changes": [],
+      "relocated": false
+    },
+    {
+      "path": "iSnobal/katana_2017/datakatana_201711.ini",
+      "source_path": "/bsuscratch/zihaozhang/iSnobal/erw_2nd/katana_2017/datakatana_201711.ini",
+      "bytes": 669,
+      "sha256": "88b6468613ff3f3894066fe37bb5edafd4253900dcb6c7a1746a90b9ea4d3bb6",
+      "source_text_fnv1a32": "7f35663d",
+      "settings_changes": [],
+      "relocated": false
+    },
+    {
+      "path": "iSnobal/katana_2017/datakatana_201712.ini",
+      "source_path": "/bsuscratch/zihaozhang/iSnobal/erw_2nd/katana_2017/datakatana_201712.ini",
+      "bytes": 669,
+      "sha256": "0ba5d4d8db477481c946b80982ff91de0cfba94a656032593ab38e3c01ea997c",
+      "source_text_fnv1a32": "da0c72d3",
+      "settings_changes": [],
+      "relocated": false
+    },
+    {
+      "path": "iSnobal/katana_2017/erw_katana.ini",
+      "source_path": "/bsuscratch/zihaozhang/iSnobal/erw_2nd/katana_2017/erw_katana.ini",
+      "bytes": 669,
+      "sha256": "0ba5d4d8db477481c946b80982ff91de0cfba94a656032593ab38e3c01ea997c",
+      "source_text_fnv1a32": "da0c72d3",
+      "settings_changes": [],
+      "relocated": false
+    },
+    {
+      "path": "iSnobal/katana_2017/katana.slurm",
+      "source_path": "/bsuscratch/zihaozhang/iSnobal/erw_2nd/katana_2017/katana.slurm",
+      "bytes": 1794,
+      "sha256": "3de552756c2019e827196dcc60e2960c68f5be2ce57cba57df88269fab65e9ad",
+      "source_text_fnv1a32": "65a629fe",
+      "settings_changes": [],
+      "relocated": false
+    },
+    {
+      "path": "iSnobal/katana_2017/snapshots/run20161001/awsm_config_backup.ini",
+      "source_path": "/bsuscratch/zihaozhang/iSnobal/erw_2nd/katana_2017/model_out/erw/wy2017/erw_res_forcing/run20161001/awsm_config_backup.ini",
+      "bytes": 11271,
+      "sha256": "b566514da635f9a4694815bc87d56cf55a2e6caff5b1d7a93abde679d06ccc9c",
+      "source_text_fnv1a32": "2fbb3728",
+      "settings_changes": [],
+      "relocated": true
+    },
+    {
+      "path": "iSnobal/katana_2017/snapshots/run20161001/config.ini",
+      "source_path": "/bsuscratch/zihaozhang/iSnobal/erw_2nd/katana_2017/model_out/erw/wy2017/erw_res_forcing/run20161001/config.ini",
+      "bytes": 8411,
+      "sha256": "bcdfaf6917f1144d6640bd00dd83394a6139607b5deb5879f30d746737ba4991",
+      "source_text_fnv1a32": "bf81dcba",
+      "settings_changes": [],
+      "relocated": true
+    },
+    {
+      "path": "Noah-MP/NoahMP_f06/namelist.hrldas",
+      "source_path": "/bsuscratch/zihaozhang/Noah-MP-HRRR/NoahMP_f06/full_run/namelist.hrldas",
+      "bytes": 2269,
+      "sha256": "b0aab80b480f777947b0bf6063ef81197e19110e72257bf84c73e6d9adb90757",
+      "source_text_fnv1a32": "a7c4695d",
+      "settings_changes": [],
+      "relocated": false
+    }
+  ]
+}

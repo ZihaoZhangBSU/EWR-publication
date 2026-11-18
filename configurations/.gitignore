@@ -1,0 +1,19 @@
+# Configuration release only: keep model inputs and outputs out.
+*.nc
+*.nc4
+*.grib
+*.grib2
+*.asc
+*.tif
+*.tiff
+*.npy
+*.npz
+*.pkl
+*.h5
+*.hdf5
+*.zip
+*.tar
+*.gz
+*.log
+slurm-*.out*
+slurm-*.err*
