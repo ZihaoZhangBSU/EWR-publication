@@ -21,6 +21,7 @@ regressions from analyses requiring the full production archives.
 2. [Install dependencies and reproduce results](docs/REPRODUCTION.md).
 3. [Read what has and has not been validated](docs/SCIENTIFIC_AUDIT.md).
 4. [Locate input datasets and reference snapshots](data/README.md).
+5. [Inspect the released Noah-MP and iSnobal configurations](configurations/README.md).
 
 ```text
 analysis/
@@ -32,6 +33,7 @@ analysis/
   postpeak/      F7, F8: conditional daily losses and timing
   streamflow/    F9, S4: snowpack release and observed discharge
   wy2026/        F10–F12, S5: forcing, radiation and MODIS
+configurations/  model settings, archived launch script and provenance; no model data
 workflow/        source dependency from the author's v0.8.2 output archive
 data/reference/  small archived regression tables
 tests/          targeted numerical checks
